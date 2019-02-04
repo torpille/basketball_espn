@@ -60,38 +60,7 @@ INSERT INTO `games` VALUES (401070240,'2019-01-22','03:30:00.000000',0,'Golden S
 ','Klay Thompson, DeMarcus Cousins, Stephen Curry','Ivica Zubac, JaVale McGee, Lance Stephenson');
 INSERT INTO `games` VALUES (401070693,'2018-10-17','23:00:00.000000',0,'Milwaukee','Bucks','Milwaukee Bucks','1-0, 1-0 Away','Charlotte','Hornets','Charlotte Hornets','0-1, 0-1 Home','Spectrum Center','Charlotte',' NC
 ','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo','Kemba Walker, Marvin Williams, Tony Parker');
-INSERT INTO `games` VALUES (401070694,'2018-10-17','23:00:00.000000',0,'Brooklyn','Nets','Brooklyn Nets','0-1, 0-1 Away','Detroit','Pistons','Detroit Pistons','1-0, 1-0 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -6.0
-						
-						
-							
-								Over/Under: 213
-							
-						
-					
-				
-			
-			
-				Attendance: 20,332
-			
-
-			97%Capacity: 21,000Referees: Eric Dalen, Rodney Mott, Karl Lane','Detroit',' MI
+INSERT INTO `games` VALUES (401070694,'2018-10-17','23:00:00.000000',0,'Brooklyn','Nets','Brooklyn Nets','0-1, 0-1 Away','Detroit','Pistons','Detroit Pistons','1-0, 1-0 Home','Little Caesars Arena','Detroit',' MI
 ','Caris LeVert, Jarrett Allen, Spencer Dinwiddie','Blake Griffin, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401070695,'2018-10-17','23:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','0-1, 0-1 Away','Indiana','Pacers','Indiana Pacers','1-0, 1-0 Home','Bankers Life Fieldhouse','Indianapolis',' IN
 ','Marc Gasol, JaMychal Green, Marc Gasol','Bojan Bogdanovic, Domantas Sabonis, Tyreke Evans');
@@ -103,38 +72,7 @@ INSERT INTO `games` VALUES (401070698,'2018-10-17','23:30:00.000000',0,'Clevelan
 ','Kevin Love, Tristan Thompson, George Hill','Kyle Lowry, Kawhi Leonard, Kyle Lowry');
 INSERT INTO `games` VALUES (401070699,'2018-10-18','00:30:00.000000',0,'Minnesota','Timberwolves','Minnesota Timberwolves','0-1, 0-1 Away','San Antonio','Spurs','San Antonio Spurs','1-0, 1-0 Home','AT&T Center','San Antonio',' TX
 ','Jeff Teague, Taj Gibson, Jeff Teague','DeMar DeRozan, LaMarcus Aldridge, Pau Gasol');
-INSERT INTO `games` VALUES (401070700,'2018-10-18','02:00:00.000000',0,'Utah','Jazz','Utah Jazz','1-0, 1-0 Away','Sacramento','Kings','Sacramento Kings','0-1, 0-1 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: UTAH -8.5
-						
-						
-							
-								Over/Under: 206
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Marc Davis, J.T. Orr, CJ Washington','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070700,'2018-10-18','02:00:00.000000',0,'Utah','Jazz','Utah Jazz','1-0, 1-0 Away','Sacramento','Kings','Sacramento Kings','0-1, 0-1 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Donovan Mitchell, Rudy Gobert, Joe Ingles','Willie Cauley-Stein, Nemanja Bjelica, De''Aaron Fox');
 INSERT INTO `games` VALUES (401070701,'2018-10-18','02:30:00.000000',0,'Denver','Nuggets','Denver Nuggets','1-0, 1-0 Away','LA','Clippers','LA Clippers','0-1, 0-1 Home','STAPLES Center','Los Angeles',' CA
 ','Nikola Jokic, Paul Millsap, Nikola Jokic','Tobias Harris, Tobias Harris, Patrick Beverley');
@@ -150,38 +88,7 @@ INSERT INTO `games` VALUES (401070706,'2018-10-20','00:00:00.000000',0,'Clevelan
 ','Kevin Love, Kevin Love, Cedi Osman','Jimmy Butler, Karl-Anthony Towns, Derrick Rose');
 INSERT INTO `games` VALUES (401070707,'2018-10-20','00:00:00.000000',0,'Sacramento','Kings','Sacramento Kings','0-2, 0-1 Away','New Orleans','Pelicans','New Orleans Pelicans','2-0, 1-0 Home','Smoothie King Center','New Orleans',' LA
 ','Willie Cauley-Stein, Marvin Bagley III, De''Aaron Fox','Nikola Mirotic, Julius Randle, Jrue Holiday');
-INSERT INTO `games` VALUES (401070708,'2018-10-20','00:30:00.000000',0,'Indiana','Pacers','Indiana Pacers','1-1, 0-1 Away','Milwaukee','Bucks','Milwaukee Bucks','2-0, 1-0 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -4.0
-						
-						
-							
-								Over/Under: 216
-							
-						
-					
-				
-			
-			
-				Attendance: 17,341
-			
-
-			100%Capacity: 17,341Referees: Tony Brown, Rodney Mott, Ray Acosta','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070708,'2018-10-20','00:30:00.000000',0,'Indiana','Pacers','Indiana Pacers','1-1, 0-1 Away','Milwaukee','Bucks','Milwaukee Bucks','2-0, 1-0 Home','Fiserv Forum','Milwaukee',' WI
 ','Victor Oladipo, Domantas Sabonis, Tyreke Evans','Giannis Antetokounmpo, Giannis Antetokounmpo, Malcolm Brogdon');
 INSERT INTO `games` VALUES (401070709,'2018-10-20','02:30:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','0-2, 0-2 Away','LA','Clippers','LA Clippers','1-1, 1-1 Home','STAPLES Center','Los Angeles',' CA
 ','Paul George, Steven Adams, Dennis Schroder','Tobias Harris, Marcin Gortat, Patrick Beverley');
@@ -211,38 +118,7 @@ INSERT INTO `games` VALUES (401070721,'2018-10-22','23:30:00.000000',0,'Orlando'
 ','Nikola Vucevic, Nikola Vucevic, Evan Fournier','Kyrie Irving, Jayson Tatum, Kyrie Irving');
 INSERT INTO `games` VALUES (401070722,'2018-10-22','23:30:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','2-2, 2-1 Away','Toronto','Raptors','Toronto Raptors','4-0, 3-0 Home','Scotiabank Arena','Toronto',' ON
 ','Kemba Walker, Kemba Walker, Kemba Walker','Kawhi Leonard, Jonas Valanciunas, Kyle Lowry');
-INSERT INTO `games` VALUES (401070723,'2018-10-23','00:00:00.000000',0,'New York','Knicks','New York Knicks','1-3, 0-2 Away','Milwaukee','Bucks','Milwaukee Bucks','3-0, 2-0 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -11.0
-						
-						
-							
-								Over/Under: 226
-							
-						
-					
-				
-			
-			
-				Attendance: 16,228
-			
-
-			94%Capacity: 17,341Referees: James Capers, Dedric Taylor, Aaron Smith','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070723,'2018-10-23','00:00:00.000000',0,'New York','Knicks','New York Knicks','1-3, 0-2 Away','Milwaukee','Bucks','Milwaukee Bucks','3-0, 2-0 Home','Fiserv Forum','Milwaukee',' WI
 ','Tim Hardaway Jr., Enes Kanter, Frank Ntilikina','Giannis Antetokounmpo, Giannis Antetokounmpo, Eric Bledsoe');
 INSERT INTO `games` VALUES (401070724,'2018-10-23','00:00:00.000000',0,'Indiana','Pacers','Indiana Pacers','2-2, 0-2 Away','Minnesota','Timberwolves','Minnesota Timberwolves','2-2, 2-0 Home','Target Center','Minneapolis',' MN
 ','Victor Oladipo, Victor Oladipo, Darren Collison','Jimmy Butler, Karl-Anthony Towns, Jeff Teague');
@@ -256,38 +132,7 @@ INSERT INTO `games` VALUES (401070728,'2018-10-23','02:30:00.000000',0,'Phoenix'
 ','Devin Booker, Deandre Ayton, Devin Booker','Stephen Curry, Alfonzo McKinnie, Stephen Curry');
 INSERT INTO `games` VALUES (401070729,'2018-10-23','02:30:00.000000',0,'San Antonio','Spurs','San Antonio Spurs','2-1, 1-1 Away','Los Angeles','Lakers','Los Angeles Lakers','0-3, 0-2 Home','STAPLES Center','Los Angeles',' CA
 ','LaMarcus Aldridge, Dante Cunningham, DeMar DeRozan','Kyle Kuzma, Josh Hart, LeBron James');
-INSERT INTO `games` VALUES (401070730,'2018-10-23','23:00:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','2-2, 0-2 Away','Detroit','Pistons','Detroit Pistons','3-0, 2-0 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: PHI -1.0
-						
-						
-							
-								Over/Under: 215
-							
-						
-					
-				
-			
-			
-				Attendance: 14,418
-			
-
-			69%Capacity: 21,000Referees: Derek Richardson, James Williams, Tyler Ford','Detroit',' MI
+INSERT INTO `games` VALUES (401070730,'2018-10-23','23:00:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','2-2, 0-2 Away','Detroit','Pistons','Detroit Pistons','3-0, 2-0 Home','Little Caesars Arena','Detroit',' MI
 ','Joel Embiid, Joel Embiid, T.J. McConnell','Blake Griffin, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401070731,'2018-10-24','00:00:00.000000',0,'LA','Clippers','LA Clippers','2-2, 0-1 Away','New Orleans','Pelicans','New Orleans Pelicans','3-0, 2-0 Home','Smoothie King Center','New Orleans',' LA
 ','Tobias Harris, Patrick Beverley, Patrick Beverley','Anthony Davis, Anthony Davis, Jrue Holiday');
@@ -307,108 +152,15 @@ INSERT INTO `games` VALUES (401070738,'2018-10-25','00:00:00.000000',0,'Utah','J
 ','Donovan Mitchell, Rudy Gobert, Donovan Mitchell','James Harden, Clint Capela, James Harden');
 INSERT INTO `games` VALUES (401070739,'2018-10-25','00:30:00.000000',0,'Indiana','Pacers','Indiana Pacers','3-2, 1-2 Away','San Antonio','Spurs','San Antonio Spurs','2-2, 1-1 Home','AT&T Center','San Antonio',' TX
 ','Victor Oladipo, Domantas Sabonis, Victor Oladipo','DeMar DeRozan, LaMarcus Aldridge, DeMar DeRozan');
-INSERT INTO `games` VALUES (401070740,'2018-10-25','01:30:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','2-3, 0-3 Away','Milwaukee','Bucks','Milwaukee Bucks','4-0, 3-0 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -5.0
-						
-						
-							
-								Over/Under: 229
-							
-						
-					
-				
-			
-			
-				Attendance: 17,341
-			
-
-			100%Capacity: 17,341Referees: JT Orr, J.T. Orr, Nick Buchert','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070740,'2018-10-25','01:30:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','2-3, 0-3 Away','Milwaukee','Bucks','Milwaukee Bucks','4-0, 3-0 Home','Fiserv Forum','Milwaukee',' WI
 ','Joel Embiid, Joel Embiid, Ben Simmons','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401070741,'2018-10-25','02:00:00.000000',0,'Los Angeles','Lakers','Los Angeles Lakers','1-3, 1-1 Away','Phoenix','Suns','Phoenix Suns','1-3, 1-1 Home','Talking Stick Resort Arena','Phoenix',' AZ
 ','Lance Stephenson, Lance Stephenson, LeBron James','Devin Booker, Deandre Ayton, Devin Booker');
-INSERT INTO `games` VALUES (401070742,'2018-10-25','02:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','2-2, 1-2 Away','Sacramento','Kings','Sacramento Kings','2-3, 1-1 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MEM -2.5
-						
-						
-							
-								Over/Under: 221
-							
-						
-					
-				
-			
-			
-				Attendance: 14,198
-			
-
-			81%Capacity: 17,500Referees: Derrick Collins, Ed Malloy, Jacyn Goble','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070742,'2018-10-25','02:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','2-2, 1-2 Away','Sacramento','Kings','Sacramento Kings','2-3, 1-1 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Mike Conley, Marc Gasol, Mike Conley','Buddy Hield, Nemanja Bjelica, De''Aaron Fox');
 INSERT INTO `games` VALUES (401070743,'2018-10-25','02:30:00.000000',0,'Washington','Wizards','Washington Wizards','1-3, 1-1 Away','Golden State','Warriors','Golden State Warriors','4-1, 3-0 Home','ORACLE Arena','Oakland',' CA
 ','Bradley Beal, Kelly Oubre Jr., John Wall','Stephen Curry, Kevin Durant, Draymond Green');
-INSERT INTO `games` VALUES (401070744,'2018-10-25','23:00:00.000000',0,'Cleveland','Cavaliers','Cleveland Cavaliers','0-5, 0-3 Away','Detroit','Pistons','Detroit Pistons','4-0, 3-0 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -9.5
-						
-						
-							
-								Over/Under: 217
-							
-						
-					
-				
-			
-			
-				Attendance: 15,896
-			
-
-			76%Capacity: 21,000Referees: Eric Lewis, Jonathan Sterling, Gediminas Petraitis','Detroit',' MI
+INSERT INTO `games` VALUES (401070744,'2018-10-25','23:00:00.000000',0,'Cleveland','Cavaliers','Cleveland Cavaliers','0-5, 0-3 Away','Detroit','Pistons','Detroit Pistons','4-0, 3-0 Home','Little Caesars Arena','Detroit',' MI
 ','Kyle Korver, Larry Nance Jr., Collin Sexton','Andre Drummond, Andre Drummond, Reggie Bullock');
 INSERT INTO `games` VALUES (401070745,'2018-10-25','23:00:00.000000',0,'Portland','Trail Blazers','Portland Trail Blazers','3-1, 1-0 Away','Orlando','Magic','Orlando Magic','2-3, 1-2 Home','Amway Center','Orlando',' FL
 ','Damian Lillard, Al-Farouq Aminu, Evan Turner','Nikola Vucevic, Nikola Vucevic, Evan Fournier');
@@ -428,71 +180,9 @@ INSERT INTO `games` VALUES (401070752,'2018-10-27','00:00:00.000000',0,'Milwauke
 ','Khris Middleton, Giannis Antetokounmpo, Eric Bledsoe','Karl-Anthony Towns, Karl-Anthony Towns, Tyus Jones');
 INSERT INTO `games` VALUES (401070753,'2018-10-27','00:00:00.000000',0,'Brooklyn','Nets','Brooklyn Nets','2-3, 1-3 Away','New Orleans','Pelicans','New Orleans Pelicans','4-0, 3-0 Home','Smoothie King Center','New Orleans',' LA
 ','D''Angelo Russell, Ed Davis, Spencer Dinwiddie','Jrue Holiday, Anthony Davis, Elfrid Payton');
-INSERT INTO `games` VALUES (401070754,'2018-10-27','02:00:00.000000',0,'Washington','Wizards','Washington Wizards','1-4, 1-2 Away','Sacramento','Kings','Sacramento Kings','3-3, 2-1 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: WSH -5.5
-						
-						
-							
-								Over/Under: 236
-							
-						
-					
-				
-			
-			
-				Attendance: 14,101
-			
-
-			81%Capacity: 17,500Referees: Josh Tiven, Rodney Mott, Justin Van Duyne','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070754,'2018-10-27','02:00:00.000000',0,'Washington','Wizards','Washington Wizards','1-4, 1-2 Away','Sacramento','Kings','Sacramento Kings','3-3, 2-1 Home','Golden 1 Center','SACRAMENTO',' CA
 ','John Wall, Kelly Oubre Jr., John Wall','Nemanja Bjelica, Nemanja Bjelica, De''Aaron Fox');
-INSERT INTO `games` VALUES (401070755,'2018-10-27','23:00:00.000000',0,'Boston','Celtics','Boston Celtics','4-2, 3-1 Away','Detroit','Pistons','Detroit Pistons','4-1, 3-1 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: BOS -3.5
-						
-						
-							
-								Over/Under: 211
-							
-						
-					
-				
-			
-			
-				Attendance: 18,120
-			
-
-			86%Capacity: 21,000Referees: Jason Phillips, Marat Kogut, CJ Washington','Detroit',' MI
+INSERT INTO `games` VALUES (401070755,'2018-10-27','23:00:00.000000',0,'Boston','Celtics','Boston Celtics','4-2, 3-1 Away','Detroit','Pistons','Detroit Pistons','4-1, 3-1 Home','Little Caesars Arena','Detroit',' MI
 ','Jaylen Brown, Marcus Morris, Marcus Smart','Andre Drummond, Andre Drummond, Reggie Jackson');
 INSERT INTO `games` VALUES (401070756,'2018-10-27','23:00:00.000000',0,'Utah','Jazz','Utah Jazz','3-2, 3-0 Away','New Orleans','Pelicans','New Orleans Pelicans','4-1, 3-1 Home','Smoothie King Center','New Orleans',' LA
 ','Ricky Rubio, Rudy Gobert, Ricky Rubio','Nikola Mirotic, Nikola Mirotic, Jrue Holiday');
@@ -506,38 +196,7 @@ INSERT INTO `games` VALUES (401070760,'2018-10-28','00:00:00.000000',0,'Portland
 ','Damian Lillard, Damian Lillard, Damian Lillard','Goran Dragic, Hassan Whiteside, Goran Dragic');
 INSERT INTO `games` VALUES (401070761,'2018-10-28','00:00:00.000000',0,'Phoenix','Suns','Phoenix Suns','1-4, 0-3 Away','Memphis','Grizzlies','Memphis Grizzlies','3-2, 2-0 Home','FedExForum','Memphis',' TN
 ','Deandre Ayton, Deandre Ayton, Deandre Ayton','Marc Gasol, Marc Gasol, Mike Conley');
-INSERT INTO `games` VALUES (401070762,'2018-10-28','00:30:00.000000',0,'Orlando','Magic','Orlando Magic','2-4, 1-2 Away','Milwaukee','Bucks','Milwaukee Bucks','6-0, 4-0 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -9.5
-						
-						
-							
-								Over/Under: 220
-							
-						
-					
-				
-			
-			
-				Attendance: 17,341
-			
-
-			100%Capacity: 17,341Referees: Courtney Kirkland, Curtis Blair, Leon Wood','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070762,'2018-10-28','00:30:00.000000',0,'Orlando','Magic','Orlando Magic','2-4, 1-2 Away','Milwaukee','Bucks','Milwaukee Bucks','6-0, 4-0 Home','Fiserv Forum','Milwaukee',' WI
 ','Nikola Vucevic, Nikola Vucevic, D.J. Augustin','Giannis Antetokounmpo, Ersan Ilyasova, Ersan Ilyasova');
 INSERT INTO `games` VALUES (401070763,'2018-10-28','00:30:00.000000',0,'Los Angeles','Lakers','Los Angeles Lakers','2-4, 1-2 Away','San Antonio','Spurs','San Antonio Spurs','3-2, 2-1 Home','AT&T Center','San Antonio',' TX
 ','LeBron James, LeBron James, Rajon Rondo','DeMar DeRozan, DeMar DeRozan, DeMar DeRozan');
@@ -559,38 +218,7 @@ INSERT INTO `games` VALUES (401070771,'2018-10-29','23:30:00.000000',0,'Brooklyn
 ','Spencer Dinwiddie, Rondae Hollis-Jefferson, Caris LeVert','Tim Hardaway Jr., Enes Kanter, Tim Hardaway Jr.');
 INSERT INTO `games` VALUES (401070772,'2018-10-30','00:00:00.000000',0,'Golden State','Warriors','Golden State Warriors','7-1, 4-1 Away','Chicago','Bulls','Chicago Bulls','2-5, 1-2 Home','United Center','Chicago',' IL
 ','Klay Thompson, Alfonzo McKinnie, Draymond Green','Zach LaVine, Jabari Parker, Jabari Parker');
-INSERT INTO `games` VALUES (401070773,'2018-10-30','00:00:00.000000',0,'Toronto','Raptors','Toronto Raptors','6-1, 1-1 Away','Milwaukee','Bucks','Milwaukee Bucks','7-0, 5-0 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: TOR -2.0
-						
-						
-							
-								Over/Under: 223
-							
-						
-					
-				
-			
-			
-				Attendance: 17,341
-			
-
-			100%Capacity: 17,341Referees: Jason Phillips, Brian Forte, CJ Washington','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070773,'2018-10-30','00:00:00.000000',0,'Toronto','Raptors','Toronto Raptors','6-1, 1-1 Away','Milwaukee','Bucks','Milwaukee Bucks','7-0, 5-0 Home','Fiserv Forum','Milwaukee',' WI
 ','Serge Ibaka, Serge Ibaka, Kyle Lowry','Ersan Ilyasova, Ersan Ilyasova, Eric Bledsoe');
 INSERT INTO `games` VALUES (401070774,'2018-10-30','00:00:00.000000',0,'Los Angeles','Lakers','Los Angeles Lakers','2-5, 1-3 Away','Minnesota','Timberwolves','Minnesota Timberwolves','3-4, 3-1 Home','Target Center','Minneapolis',' MN
 ','LeBron James, LeBron James, LeBron James','Jimmy Butler, Karl-Anthony Towns, Derrick Rose');
@@ -672,38 +300,7 @@ INSERT INTO `games` VALUES (401070812,'2018-11-04','01:00:00.000000',0,'Utah','J
 ','Jae Crowder, Rudy Gobert, Ricky Rubio','Gary Harris, Nikola Jokic, Nikola Jokic');
 INSERT INTO `games` VALUES (401070813,'2018-11-04','02:00:00.000000',0,'Los Angeles','Lakers','Los Angeles Lakers','4-5, 2-3 Away','Portland','Trail Blazers','Portland Trail Blazers','6-3, 3-2 Home','Moda Center','Portland',' OR
 ','LeBron James, Rajon Rondo, LeBron James','CJ McCollum, Jusuf Nurkic, CJ McCollum');
-INSERT INTO `games` VALUES (401070814,'2018-11-04','20:30:00.000000',0,'Sacramento','Kings','Sacramento Kings','6-4, 4-3 Away','Milwaukee','Bucks','Milwaukee Bucks','8-1, 6-0 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -10.0
-						
-						
-							
-								Over/Under: 235
-							
-						
-					
-				
-			
-			
-				Attendance: 17,341
-			
-
-			100%Capacity: 17,341Referees: Ed Malloy, Tre Maddox, Scott Twardoski','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070814,'2018-11-04','20:30:00.000000',0,'Sacramento','Kings','Sacramento Kings','6-4, 4-3 Away','Milwaukee','Bucks','Milwaukee Bucks','8-1, 6-0 Home','Fiserv Forum','Milwaukee',' WI
 ','Justin Jackson, Iman Shumpert, De''Aaron Fox','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401070815,'2018-11-04','23:00:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','6-5, 0-5 Away','Brooklyn','Nets','Brooklyn Nets','4-6, 3-2 Home','Barclays Center','Brooklyn',' NY
 ','Ben Simmons, Joel Embiid, Joel Embiid','Rondae Hollis-Jefferson, Jarrett Allen, Spencer Dinwiddie');
@@ -717,38 +314,7 @@ INSERT INTO `games` VALUES (401070819,'2018-11-05','02:00:00.000000',0,'Minnesot
 ','Karl-Anthony Towns, Taj Gibson, Tyus Jones','Jusuf Nurkic, Jusuf Nurkic, Damian Lillard');
 INSERT INTO `games` VALUES (401070820,'2018-11-05','02:30:00.000000',0,'Toronto','Raptors','Toronto Raptors','9-1, 3-1 Away','Los Angeles','Lakers','Los Angeles Lakers','4-6, 2-3 Home','STAPLES Center','Los Angeles',' CA
 ','Serge Ibaka, Pascal Siakam, Kyle Lowry','Kyle Kuzma, Lonzo Ball, LeBron James');
-INSERT INTO `games` VALUES (401070821,'2018-11-06','00:00:00.000000',0,'Miami','Heat','Miami Heat','4-5, 2-3 Away','Detroit','Pistons','Detroit Pistons','4-5, 3-2 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -3.0
-						
-						
-							
-								Over/Under: 220
-							
-						
-					
-				
-			
-			
-				Attendance: 14,148
-			
-
-			67%Capacity: 21,000Referees: Kevin Cutler, Mike Callahan, Mousa Dagher','Detroit',' MI
+INSERT INTO `games` VALUES (401070821,'2018-11-06','00:00:00.000000',0,'Miami','Heat','Miami Heat','4-5, 2-3 Away','Detroit','Pistons','Detroit Pistons','4-5, 3-2 Home','Little Caesars Arena','Detroit',' MI
 ','Josh Richardson, Josh Richardson, Goran Dragic','Andre Drummond, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401070822,'2018-11-06','00:00:00.000000',0,'Houston','Rockets','Houston Rockets','4-5, 4-1 Away','Indiana','Pacers','Indiana Pacers','7-4, 3-2 Home','Bankers Life Fieldhouse','Indianapolis',' IN
 ','James Harden, Clint Capela, Chris Paul','Victor Oladipo, Thaddeus Young, Domantas Sabonis');
@@ -790,38 +356,7 @@ INSERT INTO `games` VALUES (401070840,'2018-11-08','01:00:00.000000',0,'Chicago'
 ','Zach LaVine, Jabari Parker, Zach LaVine','Anthony Davis, Anthony Davis, Jrue Holiday');
 INSERT INTO `games` VALUES (401070841,'2018-11-08','02:00:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','3-8, 0-6 Away','Utah','Jazz','Utah Jazz','5-6, 1-4 Home','Vivint Smart Home Arena','Salt Lake City',' UT
 ','Luka Doncic, DeAndre Jordan, Wesley Matthews','Donovan Mitchell, Rudy Gobert, Ricky Rubio');
-INSERT INTO `games` VALUES (401070842,'2018-11-08','03:00:00.000000',0,'Toronto','Raptors','Toronto Raptors','11-1, 5-1 Away','Sacramento','Kings','Sacramento Kings','6-5, 2-2 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: TOR -9.0
-						
-						
-							
-								Over/Under: 234
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Kane Fitzgerald, Ben Taylor, Aaron Smith','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070842,'2018-11-08','03:00:00.000000',0,'Toronto','Raptors','Toronto Raptors','11-1, 5-1 Away','Sacramento','Kings','Sacramento Kings','6-5, 2-2 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Kawhi Leonard, Serge Ibaka, Kyle Lowry','Willie Cauley-Stein, Willie Cauley-Stein, Iman Shumpert');
 INSERT INTO `games` VALUES (401070843,'2018-11-08','03:30:00.000000',0,'Minnesota','Timberwolves','Minnesota Timberwolves','4-8, 0-7 Away','Los Angeles','Lakers','Los Angeles Lakers','5-6, 3-3 Home','STAPLES Center','Los Angeles',' CA
 ','Derrick Rose, Taj Gibson, Derrick Rose','LeBron James, LeBron James, Rajon Rondo');
@@ -845,38 +380,7 @@ INSERT INTO `games` VALUES (401070852,'2018-11-10','02:00:00.000000',0,'Brooklyn
 ','D''Angelo Russell, Jarrett Allen, Spencer Dinwiddie','Nikola Jokic, Nikola Jokic, Jamal Murray');
 INSERT INTO `games` VALUES (401070853,'2018-11-10','02:30:00.000000',0,'Boston','Celtics','Boston Celtics','7-5, 4-4 Away','Utah','Jazz','Utah Jazz','6-6, 2-4 Home','Vivint Smart Home Arena','Salt Lake City',' UT
 ','Terry Rozier, Terry Rozier, Marcus Smart','Joe Ingles, Rudy Gobert, Joe Ingles');
-INSERT INTO `games` VALUES (401070854,'2018-11-10','03:00:00.000000',0,'Minnesota','Timberwolves','Minnesota Timberwolves','4-9, 0-8 Away','Sacramento','Kings','Sacramento Kings','7-5, 3-2 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIN -2.0
-						
-						
-							
-								Over/Under: 234
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Brian Forte, Marc Davis, Matt Myers','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070854,'2018-11-10','03:00:00.000000',0,'Minnesota','Timberwolves','Minnesota Timberwolves','4-9, 0-8 Away','Sacramento','Kings','Sacramento Kings','7-5, 3-2 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Karl-Anthony Towns, Karl-Anthony Towns, Jimmy Butler','Willie Cauley-Stein, Buddy Hield, De''Aaron Fox');
 INSERT INTO `games` VALUES (401070855,'2018-11-10','20:00:00.000000',0,'New York','Knicks','New York Knicks','4-9, 2-5 Away','Toronto','Raptors','Toronto Raptors','12-1, 7-0 Home','Scotiabank Arena','Toronto',' ON
 ','Tim Hardaway Jr., Enes Kanter, Frank Ntilikina','Pascal Siakam, Jonas Valanciunas, Kyle Lowry');
@@ -896,71 +400,9 @@ INSERT INTO `games` VALUES (401070862,'2018-11-11','01:30:00.000000',0,'Brooklyn
 ','Joe Harris, Jarrett Allen, Spencer Dinwiddie','Kevin Durant, Jordan Bell, Kevin Durant');
 INSERT INTO `games` VALUES (401070863,'2018-11-11','02:00:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','7-5, 3-3 Away','Dallas','Mavericks','Dallas Mavericks','4-8, 4-2 Home','American Airlines Center','Dallas',' TX
 ','Paul George, Paul George, Paul George','Luka Doncic, DeAndre Jordan, Luka Doncic');
-INSERT INTO `games` VALUES (401070864,'2018-11-11','03:00:00.000000',0,'Los Angeles','Lakers','Los Angeles Lakers','6-6, 3-3 Away','Sacramento','Kings','Sacramento Kings','7-6, 3-3 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: LAL -5.5
-						
-						
-							
-								Over/Under: 239
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: John Goble, Leon Wood, Tyler Ford','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070864,'2018-11-11','03:00:00.000000',0,'Los Angeles','Lakers','Los Angeles Lakers','6-6, 3-3 Away','Sacramento','Kings','Sacramento Kings','7-6, 3-3 Home','Golden 1 Center','SACRAMENTO',' CA
 ','LeBron James, Tyson Chandler, Rajon Rondo','De''Aaron Fox, Willie Cauley-Stein, De''Aaron Fox');
-INSERT INTO `games` VALUES (401070865,'2018-11-11','20:30:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','7-6, 3-4 Away','Detroit','Pistons','Detroit Pistons','6-6, 3-3 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -2.5
-						
-						
-							
-								Over/Under: 222
-							
-						
-					
-				
-			
-			
-				Attendance: 15,133
-			
-
-			72%Capacity: 21,000Referees: Scott Wall, Tony Brothers, Nick Buchert','Detroit',' MI
+INSERT INTO `games` VALUES (401070865,'2018-11-11','20:30:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','7-6, 3-4 Away','Detroit','Pistons','Detroit Pistons','6-6, 3-3 Home','Little Caesars Arena','Detroit',' MI
 ','Kemba Walker, Miles Bridges, Kemba Walker','Andre Drummond, Andre Drummond, Reggie Jackson');
 INSERT INTO `games` VALUES (401070866,'2018-11-12','00:00:00.000000',0,'Indiana','Pacers','Indiana Pacers','8-6, 5-3 Away','Houston','Rockets','Houston Rockets','5-7, 1-4 Home','Toyota Center','Houston',' TX
 ','Victor Oladipo, Victor Oladipo, Victor Oladipo','James Harden, Gary Clark, James Harden');
@@ -986,38 +428,7 @@ INSERT INTO `games` VALUES (401070876,'2018-11-13','01:00:00.000000',0,'Brooklyn
 ','D''Angelo Russell, Ed Davis, D''Angelo Russell','Karl-Anthony Towns, Karl-Anthony Towns, Jeff Teague');
 INSERT INTO `games` VALUES (401070877,'2018-11-13','01:00:00.000000',0,'Phoenix','Suns','Phoenix Suns','2-11, 0-6 Away','Oklahoma City','Thunder','Oklahoma City Thunder','8-5, 5-2 Home','Chesapeake Energy Arena','Oklahoma City',' OK
 ','T.J. Warren, Deandre Ayton, Devin Booker','Paul George, Paul George, Dennis Schroder');
-INSERT INTO `games` VALUES (401070878,'2018-11-13','03:00:00.000000',0,'San Antonio','Spurs','San Antonio Spurs','7-5, 2-3 Away','Sacramento','Kings','Sacramento Kings','8-6, 4-3 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SA -2.5
-						
-						
-							
-								Over/Under: 221
-							
-						
-					
-				
-			
-			
-				Attendance: 15,500
-			
-
-			89%Capacity: 17,500Referees: Jason Phillips, Mark Lindsay, CJ Washington','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070878,'2018-11-13','03:00:00.000000',0,'San Antonio','Spurs','San Antonio Spurs','7-5, 2-3 Away','Sacramento','Kings','Sacramento Kings','8-6, 4-3 Home','Golden 1 Center','SACRAMENTO',' CA
 ','DeMar DeRozan, LaMarcus Aldridge, DeMar DeRozan','Bogdan Bogdanovic, Willie Cauley-Stein, De''Aaron Fox');
 INSERT INTO `games` VALUES (401070879,'2018-11-13','03:30:00.000000',0,'Golden State','Warriors','Golden State Warriors','11-3, 4-2 Away','LA','Clippers','LA Clippers','8-5, 6-1 Home','STAPLES Center','Los Angeles',' CA
 ','Kevin Durant, Draymond Green, Kevin Durant','Lou Williams, Montrezl Harrell, Lou Williams');
@@ -1037,38 +448,7 @@ INSERT INTO `games` VALUES (401070886,'2018-11-15','00:30:00.000000',0,'Miami','
 ','Tyler Johnson, Justise Winslow, Josh Richardson','Spencer Dinwiddie, Rondae Hollis-Jefferson, Spencer Dinwiddie');
 INSERT INTO `games` VALUES (401070887,'2018-11-15','00:30:00.000000',0,'Detroit','Pistons','Detroit Pistons','7-6, 4-3 Away','Toronto','Raptors','Toronto Raptors','12-3, 7-2 Home','Scotiabank Arena','Toronto',' ON
 ','Blake Griffin, Blake Griffin, Reggie Jackson','Kawhi Leonard, Kawhi Leonard, Kyle Lowry');
-INSERT INTO `games` VALUES (401070888,'2018-11-15','01:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','8-5, 3-4 Away','Milwaukee','Bucks','Milwaukee Bucks','10-4, 6-1 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -9.5
-						
-						
-							
-								Over/Under: 213
-							
-						
-					
-				
-			
-			
-				Attendance: 16,817
-			
-
-			97%Capacity: 17,341Referees: James Capers, Tyler Ford, Phenizee Ransom','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070888,'2018-11-15','01:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','8-5, 3-4 Away','Milwaukee','Bucks','Milwaukee Bucks','10-4, 6-1 Home','Fiserv Forum','Milwaukee',' WI
 ','Marc Gasol, Kyle Anderson, Shelvin Mack','Giannis Antetokounmpo, Giannis Antetokounmpo, Eric Bledsoe');
 INSERT INTO `games` VALUES (401070889,'2018-11-15','01:00:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','7-7, 2-6 Away','Minnesota','Timberwolves','Minnesota Timberwolves','6-9, 6-1 Home','Target Center','Minneapolis',' MN
 ','E''Twaun Moore, Anthony Davis, Jrue Holiday','Karl-Anthony Towns, Karl-Anthony Towns, Jeff Teague');
@@ -1100,38 +480,7 @@ INSERT INTO `games` VALUES (401070902,'2018-11-17','01:00:00.000000',0,'Portland
 ','CJ McCollum, Jusuf Nurkic, Damian Lillard','Andrew Wiggins, Karl-Anthony Towns, Jeff Teague');
 INSERT INTO `games` VALUES (401070903,'2018-11-17','01:00:00.000000',0,'New York','Knicks','New York Knicks','4-12, 2-7 Away','New Orleans','Pelicans','New Orleans Pelicans','8-7, 6-1 Home','Smoothie King Center','New Orleans',' LA
 ','Tim Hardaway Jr., Tim Hardaway Jr., Allonzo Trier','Anthony Davis, Anthony Davis, Jrue Holiday');
-INSERT INTO `games` VALUES (401070904,'2018-11-17','02:30:00.000000',0,'Chicago','Bulls','Chicago Bulls','4-12, 2-6 Away','Milwaukee','Bucks','Milwaukee Bucks','11-4, 7-1 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -14.5
-						
-						
-							
-								Over/Under: 226
-							
-						
-					
-				
-			
-			
-				Attendance: 17,341
-			
-
-			100%Capacity: 17,341Referees: Derek Richardson, Tony Brown, David Guthrie','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070904,'2018-11-17','02:30:00.000000',0,'Chicago','Bulls','Chicago Bulls','4-12, 2-6 Away','Milwaukee','Bucks','Milwaukee Bucks','11-4, 7-1 Home','Fiserv Forum','Milwaukee',' WI
 ','Jabari Parker, Jabari Parker, Justin Holiday','Eric Bledsoe, Giannis Antetokounmpo, Khris Middleton');
 INSERT INTO `games` VALUES (401070905,'2018-11-17','23:00:00.000000',0,'LA','Clippers','LA Clippers','10-5, 3-4 Away','Brooklyn','Nets','Brooklyn Nets','7-10, 3-4 Home','Barclays Center','Brooklyn',' NY
 ','Danilo Gallinari, Montrezl Harrell, Patrick Beverley','Jarrett Allen, Jarrett Allen, D''Angelo Russell');
@@ -1165,38 +514,7 @@ INSERT INTO `games` VALUES (401070919,'2018-11-19','00:00:00.000000',0,'Golden S
 ','Kevin Durant, Kevin Durant, Kevin Durant','LaMarcus Aldridge, LaMarcus Aldridge, DeMar DeRozan');
 INSERT INTO `games` VALUES (401070920,'2018-11-20','00:00:00.000000',0,'Boston','Celtics','Boston Celtics','9-8, 4-6 Away','Charlotte','Hornets','Charlotte Hornets','8-8, 5-3 Home','Spectrum Center','Charlotte',' NC
 ','Kyrie Irving, Marcus Morris, Kyrie Irving','Kemba Walker, Nicolas Batum, Kemba Walker');
-INSERT INTO `games` VALUES (401070921,'2018-11-20','00:00:00.000000',0,'Cleveland','Cavaliers','Cleveland Cavaliers','2-13, 0-8 Away','Detroit','Pistons','Detroit Pistons','8-6, 4-3 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -9.5
-						
-						
-							
-								Over/Under: 214
-							
-						
-					
-				
-			
-			
-				Attendance: 15,769
-			
-
-			75%Capacity: 21,000Referees: Josh Tiven, Scott Foster, Ray Acosta','Detroit',' MI
+INSERT INTO `games` VALUES (401070921,'2018-11-20','00:00:00.000000',0,'Cleveland','Cavaliers','Cleveland Cavaliers','2-13, 0-8 Away','Detroit','Pistons','Detroit Pistons','8-6, 4-3 Home','Little Caesars Arena','Detroit',' MI
 ','Collin Sexton, Tristan Thompson, Collin Sexton','Andre Drummond, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401070922,'2018-11-20','00:00:00.000000',0,'Utah','Jazz','Utah Jazz','8-9, 6-5 Away','Indiana','Pacers','Indiana Pacers','11-6, 6-3 Home','Bankers Life Fieldhouse','Indianapolis',' IN
 ','Ricky Rubio, Rudy Gobert, Ricky Rubio','Bojan Bogdanovic, Domantas Sabonis, Domantas Sabonis');
@@ -1206,73 +524,11 @@ INSERT INTO `games` VALUES (401070924,'2018-11-20','00:30:00.000000',0,'LA','Cli
 ','Montrezl Harrell, Montrezl Harrell, Lou Williams','Trae Young, Dewayne Dedmon, Trae Young');
 INSERT INTO `games` VALUES (401070925,'2018-11-20','01:00:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','7-9, 1-7 Away','Memphis','Grizzlies','Memphis Grizzlies','11-5, 7-1 Home','FedExForum','Memphis',' TN
 ','Dennis Smith Jr., DeAndre Jordan, Dennis Smith Jr.','Mike Conley, Marc Gasol, Mike Conley');
-INSERT INTO `games` VALUES (401070926,'2018-11-20','01:00:00.000000',0,'Denver','Nuggets','Denver Nuggets','10-7, 3-4 Away','Milwaukee','Bucks','Milwaukee Bucks','12-4, 8-1 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -5.5
-						
-						
-							
-								Over/Under: 225
-							
-						
-					
-				
-			
-			
-				Attendance: 17,341
-			
-
-			100%Capacity: 17,341Referees: Eric Lewis, Leroy Richardson, Sean Corbin','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070926,'2018-11-20','01:00:00.000000',0,'Denver','Nuggets','Denver Nuggets','10-7, 3-4 Away','Milwaukee','Bucks','Milwaukee Bucks','12-4, 8-1 Home','Fiserv Forum','Milwaukee',' WI
 ','Nikola Jokic, Paul Millsap, Jamal Murray','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401070927,'2018-11-20','01:00:00.000000',0,'San Antonio','Spurs','San Antonio Spurs','8-8, 2-6 Away','New Orleans','Pelicans','New Orleans Pelicans','10-7, 8-1 Home','Smoothie King Center','New Orleans',' LA
 ','DeMar DeRozan, LaMarcus Aldridge, DeMar DeRozan','Anthony Davis, Julius Randle, Julius Randle');
-INSERT INTO `games` VALUES (401070928,'2018-11-20','03:00:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','10-6, 4-4 Away','Sacramento','Kings','Sacramento Kings','9-8, 5-3 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: OKC -5.0
-						
-						
-							
-								Over/Under: 227
-							
-						
-					
-				
-			
-			
-				Attendance: 16,250
-			
-
-			93%Capacity: 17,500Referees: Rodney Mott, Justin Van Duyne','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070928,'2018-11-20','03:00:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','10-6, 4-4 Away','Sacramento','Kings','Sacramento Kings','9-8, 5-3 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Russell Westbrook, Steven Adams, Russell Westbrook','Buddy Hield, Willie Cauley-Stein, De''Aaron Fox');
 INSERT INTO `games` VALUES (401070929,'2018-11-21','00:00:00.000000',0,'Toronto','Raptors','Toronto Raptors','14-4, 7-2 Away','Orlando','Magic','Orlando Magic','9-9, 6-6 Home','Amway Center','Orlando',' FL
 ','Kawhi Leonard, Pascal Siakam, Kyle Lowry','Evan Fournier, Nikola Vucevic, D.J. Augustin');
@@ -1296,38 +552,7 @@ INSERT INTO `games` VALUES (401070938,'2018-11-22','01:00:00.000000',0,'Phoenix'
 ','Devin Booker, Deandre Ayton, Devin Booker','Zach LaVine, Jabari Parker, Jabari Parker');
 INSERT INTO `games` VALUES (401070939,'2018-11-22','01:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','8-7, 4-4 Away','Houston','Rockets','Houston Rockets','9-7, 4-4 Home','Toyota Center','Houston',' TX
 ','Blake Griffin, Blake Griffin, Reggie Bullock','James Harden, Clint Capela, James Harden');
-INSERT INTO `games` VALUES (401070940,'2018-11-22','01:00:00.000000',0,'Portland','Trail Blazers','Portland Trail Blazers','12-6, 5-4 Away','Milwaukee','Bucks','Milwaukee Bucks','13-4, 9-1 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -7.5
-						
-						
-							
-								Over/Under: 227
-							
-						
-					
-				
-			
-			
-				Attendance: 17,591
-			
-
-			100%Capacity: 17,341Referees: Pat Fraher, Curtis Blair, Brett Nansel','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070940,'2018-11-22','01:00:00.000000',0,'Portland','Trail Blazers','Portland Trail Blazers','12-6, 5-4 Away','Milwaukee','Bucks','Milwaukee Bucks','13-4, 9-1 Home','Fiserv Forum','Milwaukee',' WI
 ','Damian Lillard, Al-Farouq Aminu, Damian Lillard','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401070941,'2018-11-22','01:00:00.000000',0,'Denver','Nuggets','Denver Nuggets','11-7, 4-4 Away','Minnesota','Timberwolves','Minnesota Timberwolves','7-11, 7-3 Home','Target Center','Minneapolis',' MN
 ','Paul Millsap, Nikola Jokic, Nikola Jokic','Karl-Anthony Towns, Karl-Anthony Towns, Jeff Teague');
@@ -1343,38 +568,7 @@ INSERT INTO `games` VALUES (401070946,'2018-11-23','17:00:00.000000',0,'Minnesot
 ','Derrick Rose, Taj Gibson, Jeff Teague','Joe Harris, DeMarre Carroll, Spencer Dinwiddie');
 INSERT INTO `games` VALUES (401070947,'2018-11-23','20:30:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','12-6, 5-5 Away','LA','Clippers','LA Clippers','12-6, 8-1 Home','STAPLES Center','Los Angeles',' CA
 ','Marc Gasol, Marc Gasol, Mike Conley','Montrezl Harrell, Montrezl Harrell, Lou Williams');
-INSERT INTO `games` VALUES (401070948,'2018-11-24','00:00:00.000000',0,'Houston','Rockets','Houston Rockets','9-8, 5-4 Away','Detroit','Pistons','Detroit Pistons','9-7, 5-3 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: HOU -5.0
-						
-						
-							
-								Over/Under: 215
-							
-						
-					
-				
-			
-			
-				Attendance: 17,268
-			
-
-			82%Capacity: 21,000Referees: Curtis Blair, Kane Fitzgerald, Brandon Adair','Detroit',' MI
+INSERT INTO `games` VALUES (401070948,'2018-11-24','00:00:00.000000',0,'Houston','Rockets','Houston Rockets','9-8, 5-4 Away','Detroit','Pistons','Detroit Pistons','9-7, 5-3 Home','Little Caesars Arena','Detroit',' MI
 ','James Harden, Clint Capela, Chris Paul','Blake Griffin, Andre Drummond, Reggie Jackson');
 INSERT INTO `games` VALUES (401070949,'2018-11-24','00:30:00.000000',0,'Boston','Celtics','Boston Celtics','10-9, 5-6 Away','Atlanta','Hawks','Atlanta Hawks','3-16, 2-7 Home','State Farm Arena','Atlanta',' GA
 ','Aron Baynes, Aron Baynes, Marcus Smart','Jeremy Lin, John Collins, Jeremy Lin');
@@ -1390,38 +584,7 @@ INSERT INTO `games` VALUES (401070954,'2018-11-24','01:00:00.000000',0,'Miami','
 ','Josh Richardson, Bam Adebayo, James Johnson','Justin Holiday, Justin Holiday, Zach LaVine');
 INSERT INTO `games` VALUES (401070955,'2018-11-24','01:00:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','9-9, 3-6 Away','Oklahoma City','Thunder','Oklahoma City Thunder','12-6, 7-2 Home','Chesapeake Energy Arena','Oklahoma City',' OK
 ','Kemba Walker, Nicolas Batum, Kemba Walker','Russell Westbrook, Russell Westbrook, Russell Westbrook');
-INSERT INTO `games` VALUES (401070956,'2018-11-24','01:30:00.000000',0,'Phoenix','Suns','Phoenix Suns','4-14, 1-8 Away','Milwaukee','Bucks','Milwaukee Bucks','13-5, 9-2 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -13.5
-						
-						
-							
-								Over/Under: 230
-							
-						
-					
-				
-			
-			
-				Attendance: 17,852
-			
-
-			100%Capacity: 17,341Referees: Courtney Kirkland, Dedric Taylor, Evan Scott','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070956,'2018-11-24','01:30:00.000000',0,'Phoenix','Suns','Phoenix Suns','4-14, 1-8 Away','Milwaukee','Bucks','Milwaukee Bucks','13-5, 9-2 Home','Fiserv Forum','Milwaukee',' WI
 ','Devin Booker, Trevor Ariza, Devin Booker','Giannis Antetokounmpo, Giannis Antetokounmpo, Eric Bledsoe');
 INSERT INTO `games` VALUES (401070957,'2018-11-24','02:00:00.000000',0,'Orlando','Magic','Orlando Magic','9-10, 3-4 Away','Denver','Nuggets','Denver Nuggets','12-7, 8-3 Home','Pepsi Center','Denver',' CO
 ','Terrence Ross, Aaron Gordon, Aaron Gordon','Trey Lyles, Mason Plumlee, Nikola Jokic');
@@ -1439,75 +602,13 @@ INSERT INTO `games` VALUES (401070963,'2018-11-25','01:00:00.000000',0,'Denver',
 ','Jamal Murray, Torrey Craig, Jamal Murray','Paul George, Steven Adams, Russell Westbrook');
 INSERT INTO `games` VALUES (401070964,'2018-11-25','01:30:00.000000',0,'Boston','Celtics','Boston Celtics','10-10, 5-7 Away','Dallas','Mavericks','Dallas Mavericks','9-9, 8-2 Home','American Airlines Center','Dallas',' TX
 ','Jayson Tatum, Aron Baynes, Kyrie Irving','J.J. Barea, DeAndre Jordan, J.J. Barea');
-INSERT INTO `games` VALUES (401070965,'2018-11-25','01:30:00.000000',0,'San Antonio','Spurs','San Antonio Spurs','9-10, 3-7 Away','Milwaukee','Bucks','Milwaukee Bucks','14-5, 10-2 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -9.5
-						
-						
-							
-								Over/Under: 227
-							
-						
-					
-				
-			
-			
-				Attendance: 17,559
-			
-
-			100%Capacity: 17,341Referees: Haywoode Workman, Kane Fitzgerald, Ben Taylor','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070965,'2018-11-25','01:30:00.000000',0,'San Antonio','Spurs','San Antonio Spurs','9-10, 3-7 Away','Milwaukee','Bucks','Milwaukee Bucks','14-5, 10-2 Home','Fiserv Forum','Milwaukee',' WI
 ','DeMar DeRozan, Dante Cunningham, DeMar DeRozan','Giannis Antetokounmpo, Giannis Antetokounmpo, Eric Bledsoe');
 INSERT INTO `games` VALUES (401070966,'2018-11-25','01:30:00.000000',0,'Sacramento','Kings','Sacramento Kings','10-9, 5-6 Away','Golden State','Warriors','Golden State Warriors','14-7, 10-2 Home','ORACLE Arena','Oakland',' CA
 ','Buddy Hield, Marvin Bagley III, De''Aaron Fox','Kevin Durant, Kevin Durant, Kevin Durant');
 INSERT INTO `games` VALUES (401070967,'2018-11-25','20:30:00.000000',0,'Orlando','Magic','Orlando Magic','10-10, 4-4 Away','Los Angeles','Lakers','Los Angeles Lakers','11-8, 6-4 Home','STAPLES Center','Los Angeles',' CA
 ','Nikola Vucevic, Nikola Vucevic, D.J. Augustin','LeBron James, Lonzo Ball, LeBron James');
-INSERT INTO `games` VALUES (401070968,'2018-11-25','21:00:00.000000',0,'Phoenix','Suns','Phoenix Suns','4-15, 1-9 Away','Detroit','Pistons','Detroit Pistons','10-7, 6-3 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -8.5
-						
-						
-							
-								Over/Under: 222
-							
-						
-					
-				
-			
-			
-				Attendance: 14,413
-			
-
-			69%Capacity: 21,000Referees: Tony Brown, Rodney Mott, CJ Washington','Detroit',' MI
+INSERT INTO `games` VALUES (401070968,'2018-11-25','21:00:00.000000',0,'Phoenix','Suns','Phoenix Suns','4-15, 1-9 Away','Detroit','Pistons','Detroit Pistons','10-7, 6-3 Home','Little Caesars Arena','Detroit',' MI
 ','Devin Booker, Deandre Ayton, Devin Booker','Andre Drummond, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401070969,'2018-11-25','23:00:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','9-10, 3-7 Away','Atlanta','Hawks','Atlanta Hawks','4-16, 3-7 Home','State Farm Arena','Atlanta',' GA
 ','Malik Monk, Marvin Williams, Kemba Walker','John Collins, John Collins, DeAndre'' Bembry');
@@ -1517,38 +618,7 @@ INSERT INTO `games` VALUES (401070971,'2018-11-25','23:00:00.000000',0,'Miami','
 ','Dwyane Wade, Bam Adebayo, Dwyane Wade','Kawhi Leonard, Kawhi Leonard, Kyle Lowry');
 INSERT INTO `games` VALUES (401070972,'2018-11-25','23:00:00.000000',0,'New York','Knicks','New York Knicks','7-14, 4-8 Away','Memphis','Grizzlies','Memphis Grizzlies','12-7, 7-2 Home','FedExForum','Memphis',' TN
 ','Tim Hardaway Jr., Enes Kanter, Emmanuel Mudiay','Marc Gasol, Marc Gasol, Mike Conley');
-INSERT INTO `games` VALUES (401070973,'2018-11-26','01:00:00.000000',0,'Utah','Jazz','Utah Jazz','9-11, 7-6 Away','Sacramento','Kings','Sacramento Kings','10-10, 5-4 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: UTAH -4.0
-						
-						
-							
-								Over/Under: 219
-							
-						
-					
-				
-			
-			
-				Attendance: 16,048
-			
-
-			92%Capacity: 17,500Referees: James Capers, Mitchell Ervin, Nick Buchert','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070973,'2018-11-26','01:00:00.000000',0,'Utah','Jazz','Utah Jazz','9-11, 7-6 Away','Sacramento','Kings','Sacramento Kings','10-10, 5-4 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Ricky Rubio, Rudy Gobert, Joe Ingles','Bogdan Bogdanovic, Harry Giles, Harry Giles');
 INSERT INTO `games` VALUES (401070974,'2018-11-26','02:00:00.000000',0,'LA','Clippers','LA Clippers','13-6, 5-5 Away','Portland','Trail Blazers','Portland Trail Blazers','12-8, 7-3 Home','Moda Center','Portland',' OR
 ','Tobias Harris, Tobias Harris, Danilo Gallinari','Damian Lillard, Meyers Leonard, Damian Lillard');
@@ -1566,38 +636,7 @@ INSERT INTO `games` VALUES (401070980,'2018-11-27','02:00:00.000000',0,'Indiana'
 ','Doug McDermott, Domantas Sabonis, Darren Collison','Derrick Favors, Derrick Favors, Ricky Rubio');
 INSERT INTO `games` VALUES (401070981,'2018-11-27','03:30:00.000000',0,'Orlando','Magic','Orlando Magic','10-11, 4-5 Away','Golden State','Warriors','Golden State Warriors','15-7, 11-2 Home','ORACLE Arena','Oakland',' CA
 ','Nikola Vucevic, Nikola Vucevic, D.J. Augustin','Kevin Durant, Kevin Durant, Kevin Durant');
-INSERT INTO `games` VALUES (401070982,'2018-11-28','00:00:00.000000',0,'New York','Knicks','New York Knicks','7-15, 4-9 Away','Detroit','Pistons','Detroit Pistons','11-7, 7-3 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -7.5
-						
-						
-							
-								Over/Under: 220
-							
-						
-					
-				
-			
-			
-				Attendance: 13,935
-			
-
-			66%Capacity: 21,000Referees: John Goble, Scott Wall, Leroy Richardson','Detroit',' MI
+INSERT INTO `games` VALUES (401070982,'2018-11-28','00:00:00.000000',0,'New York','Knicks','New York Knicks','7-15, 4-9 Away','Detroit','Pistons','Detroit Pistons','11-7, 7-3 Home','Little Caesars Arena','Detroit',' MI
 ','Allonzo Trier, Enes Kanter, Allonzo Trier','Blake Griffin, Andre Drummond, Ish Smith');
 INSERT INTO `games` VALUES (401070983,'2018-11-28','00:30:00.000000',0,'Atlanta','Hawks','Atlanta Hawks','5-16, 2-9 Away','Miami','Heat','Miami Heat','7-13, 3-8 Home','American Airlines Arena','Miami',' FL
 ','Taurean Prince, Alex Len, Trae Young','Josh Richardson, Hassan Whiteside, Rodney McGruder');
@@ -1615,38 +654,7 @@ INSERT INTO `games` VALUES (401070989,'2018-11-29','00:30:00.000000',0,'Utah','J
 ','Donovan Mitchell, Rudy Gobert, Joe Ingles','Spencer Dinwiddie, Rondae Hollis-Jefferson, D''Angelo Russell');
 INSERT INTO `games` VALUES (401070990,'2018-11-29','01:00:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','10-9, 2-7 Away','Houston','Rockets','Houston Rockets','9-11, 4-5 Home','Toyota Center','Houston',' TX
 ','Luka Doncic, DeAndre Jordan, J.J. Barea','James Harden, James Harden, James Harden');
-INSERT INTO `games` VALUES (401070991,'2018-11-29','01:00:00.000000',0,'Chicago','Bulls','Chicago Bulls','5-17, 2-8 Away','Milwaukee','Bucks','Milwaukee Bucks','15-6, 11-2 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -15.0
-						
-						
-							
-								Over/Under: 230
-							
-						
-					
-				
-			
-			
-				Attendance: 16,660
-			
-
-			96%Capacity: 17,341Referees: Sean Wright, Jason Goldenberg, Nick Buchert','Milwaukee',' WI
+INSERT INTO `games` VALUES (401070991,'2018-11-29','01:00:00.000000',0,'Chicago','Bulls','Chicago Bulls','5-17, 2-8 Away','Milwaukee','Bucks','Milwaukee Bucks','15-6, 11-2 Home','Fiserv Forum','Milwaukee',' WI
 ','Zach LaVine, Zach LaVine, Zach LaVine','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401070992,'2018-11-29','01:00:00.000000',0,'San Antonio','Spurs','San Antonio Spurs','10-11, 4-8 Away','Minnesota','Timberwolves','Minnesota Timberwolves','11-11, 9-3 Home','Target Center','Minneapolis',' MN
 ','Jakob Poeltl, LaMarcus Aldridge, Derrick White','Robert Covington, Karl-Anthony Towns, Jeff Teague');
@@ -1662,75 +670,13 @@ INSERT INTO `games` VALUES (401070997,'2018-11-30','01:00:00.000000',0,'Golden S
 ','Kevin Durant, Kevin Durant, Shaun Livingston','Kawhi Leonard, Kawhi Leonard, Kyle Lowry');
 INSERT INTO `games` VALUES (401070998,'2018-11-30','03:30:00.000000',0,'Indiana','Pacers','Indiana Pacers','13-9, 7-5 Away','Los Angeles','Lakers','Los Angeles Lakers','12-9, 7-4 Home','STAPLES Center','Los Angeles',' CA
 ','Domantas Sabonis, Domantas Sabonis, Cory Joseph','LeBron James, LeBron James, LeBron James');
-INSERT INTO `games` VALUES (401070999,'2018-11-30','03:30:00.000000',0,'LA','Clippers','LA Clippers','15-6, 6-5 Away','Sacramento','Kings','Sacramento Kings','10-11, 5-5 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: LAC -2.0
-						
-						
-							
-								Over/Under: 236
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Eric Dalen, Ken Mauer, Kevin Scott','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401070999,'2018-11-30','03:30:00.000000',0,'LA','Clippers','LA Clippers','15-6, 6-5 Away','Sacramento','Kings','Sacramento Kings','10-11, 5-5 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Tobias Harris, Tobias Harris, Avery Bradley','Bogdan Bogdanovic, Marvin Bagley III, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071000,'2018-12-01','00:00:00.000000',0,'Cleveland','Cavaliers','Cleveland Cavaliers','4-17, 1-10 Away','Boston','Celtics','Boston Celtics','12-10, 6-3 Home','TD Garden','Boston',' MA
 ','Jordan Clarkson, Tristan Thompson, Alec Burks','Kyrie Irving, Aron Baynes, Marcus Smart');
 INSERT INTO `games` VALUES (401071001,'2018-12-01','00:00:00.000000',0,'Utah','Jazz','Utah Jazz','11-12, 9-6 Away','Charlotte','Hornets','Charlotte Hornets','11-11, 8-4 Home','Spectrum Center','Charlotte',' NC
 ','Donovan Mitchell, Rudy Gobert, Jae Crowder','Jeremy Lamb, Marvin Williams, Tony Parker');
-INSERT INTO `games` VALUES (401071002,'2018-12-01','00:00:00.000000',0,'Chicago','Bulls','Chicago Bulls','5-18, 2-9 Away','Detroit','Pistons','Detroit Pistons','12-7, 8-3 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -8.5
-						
-						
-							
-								Over/Under: 217
-							
-						
-					
-				
-			
-			
-				Attendance: 15,372
-			
-
-			73%Capacity: 21,000Referees: Eric Lewis, Jacyn Goble, J.T. Orr','Detroit',' MI
+INSERT INTO `games` VALUES (401071002,'2018-12-01','00:00:00.000000',0,'Chicago','Bulls','Chicago Bulls','5-18, 2-9 Away','Detroit','Pistons','Detroit Pistons','12-7, 8-3 Home','Little Caesars Arena','Detroit',' MI
 ','Wendell Carter Jr., Wendell Carter Jr., Zach LaVine','Blake Griffin, Andre Drummond, Reggie Bullock');
 INSERT INTO `games` VALUES (401071003,'2018-12-01','00:00:00.000000',0,'Washington','Wizards','Washington Wizards','8-14, 2-9 Away','Philadelphia','76ers','Philadelphia 76ers','16-8, 12-1 Home','Wells Fargo Center','Philadelphia',' PA
 ','Bradley Beal, Thomas Bryant, John Wall','Joel Embiid, Joel Embiid, Ben Simmons');
@@ -1750,38 +696,7 @@ INSERT INTO `games` VALUES (401071010,'2018-12-01','03:30:00.000000',0,'Denver',
 ','Gary Harris, Juan Hernangomez, Nikola Jokic','CJ McCollum, Jusuf Nurkic, Damian Lillard');
 INSERT INTO `games` VALUES (401071011,'2018-12-01','22:00:00.000000',0,'Milwaukee','Bucks','Milwaukee Bucks','15-7, 4-5 Away','New York','Knicks','New York Knicks','8-16, 4-6 Home','Madison Square Garden','New York',' NY
 ','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo','Emmanuel Mudiay, Enes Kanter, Tim Hardaway Jr.');
-INSERT INTO `games` VALUES (401071012,'2018-12-02','00:00:00.000000',0,'Golden State','Warriors','Golden State Warriors','15-9, 4-7 Away','Detroit','Pistons','Detroit Pistons','13-7, 9-3 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: GS -4.5
-						
-						
-							
-								Over/Under: 230
-							
-						
-					
-				
-			
-			
-				Attendance: 20,332
-			
-
-			97%Capacity: 21,000Referees: Courtney Kirkland, Haywoode Workman, Mark Lindsay','Detroit',' MI
+INSERT INTO `games` VALUES (401071012,'2018-12-02','00:00:00.000000',0,'Golden State','Warriors','Golden State Warriors','15-9, 4-7 Away','Detroit','Pistons','Detroit Pistons','13-7, 9-3 Home','Little Caesars Arena','Detroit',' MI
 ','Kevin Durant, Klay Thompson, Kevin Durant','Blake Griffin, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401071013,'2018-12-02','00:00:00.000000',0,'Brooklyn','Nets','Brooklyn Nets','8-16, 5-8 Away','Washington','Wizards','Washington Wizards','9-14, 7-5 Home','Capital One Arena','Washington',' DC
 ','Allen Crabbe, Rondae Hollis-Jefferson, Spencer Dinwiddie','John Wall, Otto Porter Jr., John Wall');
@@ -1791,38 +706,7 @@ INSERT INTO `games` VALUES (401071015,'2018-12-02','01:00:00.000000',0,'Chicago'
 ','Zach LaVine, Jabari Parker, Cameron Payne','James Harden, Clint Capela, Chris Paul');
 INSERT INTO `games` VALUES (401071016,'2018-12-02','01:00:00.000000',0,'Boston','Celtics','Boston Celtics','13-10, 7-7 Away','Minnesota','Timberwolves','Minnesota Timberwolves','11-12, 9-4 Home','Target Center','Minneapolis',' MN
 ','Gordon Hayward, Gordon Hayward, Kyrie Irving','Derrick Rose, Robert Covington, Jeff Teague');
-INSERT INTO `games` VALUES (401071017,'2018-12-02','03:00:00.000000',0,'Indiana','Pacers','Indiana Pacers','13-10, 7-6 Away','Sacramento','Kings','Sacramento Kings','11-11, 6-5 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: IND -1.5
-						
-						
-							
-								Over/Under: 225
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Scott Foster, Ben Taylor, Jonathan Sterling','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071017,'2018-12-02','03:00:00.000000',0,'Indiana','Pacers','Indiana Pacers','13-10, 7-6 Away','Sacramento','Kings','Sacramento Kings','11-11, 6-5 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Bojan Bogdanovic, Myles Turner, Darren Collison','Bogdan Bogdanovic, Willie Cauley-Stein, Bogdan Bogdanovic');
 INSERT INTO `games` VALUES (401071018,'2018-12-02','20:30:00.000000',0,'Phoenix','Suns','Phoenix Suns','4-19, 1-11 Away','Los Angeles','Lakers','Los Angeles Lakers','14-9, 9-4 Home','STAPLES Center','Los Angeles',' CA
 ','Richaun Holmes, Deandre Ayton, Jamal Crawford','Kyle Kuzma, Tyson Chandler, LeBron James');
@@ -1836,38 +720,7 @@ INSERT INTO `games` VALUES (401071022,'2018-12-03','00:00:00.000000',0,'LA','Cli
 ','Montrezl Harrell, Montrezl Harrell, Lou Williams','Harrison Barnes, DeAndre Jordan, Dennis Smith Jr.');
 INSERT INTO `games` VALUES (401071023,'2018-12-03','00:00:00.000000',0,'Portland','Trail Blazers','Portland Trail Blazers','13-10, 5-6 Away','San Antonio','Spurs','San Antonio Spurs','11-12, 7-4 Home','AT&T Center','San Antonio',' TX
 ','Damian Lillard, Al-Farouq Aminu, Damian Lillard','DeMar DeRozan, DeMar DeRozan, DeMar DeRozan');
-INSERT INTO `games` VALUES (401071024,'2018-12-04','00:00:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','15-7, 6-4 Away','Detroit','Pistons','Detroit Pistons','13-8, 9-4 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: OKC -2.0
-						
-						
-							
-								Over/Under: 218
-							
-						
-					
-				
-			
-			
-				Attendance: 14,372
-			
-
-			68%Capacity: 21,000Referees: Tony Brothers, Phenizee Ransom, Gediminas Petraitis','Detroit',' MI
+INSERT INTO `games` VALUES (401071024,'2018-12-04','00:00:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','15-7, 6-4 Away','Detroit','Pistons','Detroit Pistons','13-8, 9-4 Home','Little Caesars Arena','Detroit',' MI
 ','Steven Adams, Paul George, Russell Westbrook','Blake Griffin, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401071025,'2018-12-04','00:30:00.000000',0,'Golden State','Warriors','Golden State Warriors','16-9, 5-7 Away','Atlanta','Hawks','Atlanta Hawks','5-19, 3-8 Home','State Farm Arena','Atlanta',' GA
 ','Stephen Curry, Klay Thompson, Kevin Durant','John Collins, John Collins, Jeremy Lin');
@@ -1903,38 +756,7 @@ INSERT INTO `games` VALUES (401071040,'2018-12-06','01:00:00.000000',0,'Philadel
 ','Jimmy Butler, Joel Embiid, Ben Simmons','Kawhi Leonard, Kawhi Leonard, Pascal Siakam');
 INSERT INTO `games` VALUES (401071041,'2018-12-06','01:00:00.000000',0,'LA','Clippers','LA Clippers','16-8, 7-7 Away','Memphis','Grizzlies','Memphis Grizzlies','14-9, 8-3 Home','FedExForum','Memphis',' TN
 ','Boban Marjanovic, Tobias Harris, Lou Williams','Mike Conley, JaMychal Green, Kyle Anderson');
-INSERT INTO `games` VALUES (401071042,'2018-12-06','01:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','13-9, 4-5 Away','Milwaukee','Bucks','Milwaukee Bucks','16-7, 12-2 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -7.5
-						
-						
-							
-								Over/Under: 226
-							
-						
-					
-				
-			
-			
-				Attendance: 16,541
-			
-
-			95%Capacity: 17,341Referees: Tony Brown, Mike Callahan, Michael Smith','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071042,'2018-12-06','01:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','13-9, 4-5 Away','Milwaukee','Bucks','Milwaukee Bucks','16-7, 12-2 Home','Fiserv Forum','Milwaukee',' WI
 ','Blake Griffin, Stanley Johnson, Reggie Jackson','Eric Bledsoe, Brook Lopez, Matthew Dellavedova');
 INSERT INTO `games` VALUES (401071043,'2018-12-06','01:00:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','11-13, 3-8 Away','Minnesota','Timberwolves','Minnesota Timberwolves','13-12, 11-4 Home','Target Center','Minneapolis',' MN
 ','Jeremy Lamb, Jeremy Lamb, Nicolas Batum','Karl-Anthony Towns, Karl-Anthony Towns, Jeff Teague');
@@ -1950,38 +772,7 @@ INSERT INTO `games` VALUES (401071048,'2018-12-07','03:30:00.000000',0,'Houston'
 ','James Harden, Clint Capela, Chris Paul','Derrick Favors, Derrick Favors, Ricky Rubio');
 INSERT INTO `games` VALUES (401071049,'2018-12-08','00:00:00.000000',0,'Denver','Nuggets','Denver Nuggets','17-8, 8-5 Away','Charlotte','Hornets','Charlotte Hornets','12-13, 9-5 Home','Spectrum Center','Charlotte',' NC
 ','Jamal Murray, Nikola Jokic, Jamal Murray','Kemba Walker, Marvin Williams, Kemba Walker');
-INSERT INTO `games` VALUES (401071050,'2018-12-08','00:00:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','18-9, 5-8 Away','Detroit','Pistons','Detroit Pistons','13-10, 9-5 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -2.0
-						
-						
-							
-								Over/Under: 221
-							
-						
-					
-				
-			
-			
-				Attendance: 15,680
-			
-
-			75%Capacity: 21,000Referees: Matt Boland, Kevin Cutler, David Guthrie','Detroit',' MI
+INSERT INTO `games` VALUES (401071050,'2018-12-08','00:00:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','18-9, 5-8 Away','Detroit','Pistons','Detroit Pistons','13-10, 9-5 Home','Little Caesars Arena','Detroit',' MI
 ','Jimmy Butler, Ben Simmons, Jimmy Butler','Blake Griffin, Blake Griffin, Blake Griffin');
 INSERT INTO `games` VALUES (401071051,'2018-12-08','00:00:00.000000',0,'Indiana','Pacers','Indiana Pacers','15-10, 8-6 Away','Orlando','Magic','Orlando Magic','12-14, 6-8 Home','Amway Center','Orlando',' FL
 ','Bojan Bogdanovic, Kyle O''Quinn, Darren Collison','Nikola Vucevic, Aaron Gordon, Aaron Gordon');
@@ -1997,38 +788,7 @@ INSERT INTO `games` VALUES (401071056,'2018-12-08','01:30:00.000000',0,'Los Ange
 ','LeBron James, JaVale McGee, LeBron James','DeMar DeRozan, DeMar DeRozan, DeMar DeRozan');
 INSERT INTO `games` VALUES (401071057,'2018-12-08','02:00:00.000000',0,'Miami','Heat','Miami Heat','10-14, 5-5 Away','Phoenix','Suns','Phoenix Suns','4-22, 3-10 Home','Talking Stick Resort Arena','Phoenix',' AZ
 ','Bam Adebayo, Bam Adebayo, Goran Dragic','Troy Daniels, Deandre Ayton, Trevor Ariza');
-INSERT INTO `games` VALUES (401071058,'2018-12-08','02:30:00.000000',0,'Golden State','Warriors','Golden State Warriors','18-9, 7-7 Away','Milwaukee','Bucks','Milwaukee Bucks','16-8, 12-3 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -2.0
-						
-						
-							
-								Over/Under: 242
-							
-						
-					
-				
-			
-			
-				Attendance: 17,852
-			
-
-			100%Capacity: 17,341Referees: Brent Barnaky, John Goble, Aaron Smith','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071058,'2018-12-08','02:30:00.000000',0,'Golden State','Warriors','Golden State Warriors','18-9, 7-7 Away','Milwaukee','Bucks','Milwaukee Bucks','16-8, 12-3 Home','Fiserv Forum','Milwaukee',' WI
 ','Klay Thompson, Andre Iguodala, Stephen Curry','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401071059,'2018-12-08','23:00:00.000000',0,'Houston','Rockets','Houston Rockets','11-14, 6-9 Away','Dallas','Mavericks','Dallas Mavericks','13-11, 11-2 Home','American Airlines Center','Dallas',' TX
 ','James Harden, Clint Capela, James Harden','Luka Doncic, DeAndre Jordan, J.J. Barea');
@@ -2048,38 +808,7 @@ INSERT INTO `games` VALUES (401071066,'2018-12-09','03:00:00.000000',0,'Minnesot
 ','Andrew Wiggins, Karl-Anthony Towns, Derrick Rose','Damian Lillard, Jusuf Nurkic, Damian Lillard');
 INSERT INTO `games` VALUES (401071067,'2018-12-09','03:30:00.000000',0,'Miami','Heat','Miami Heat','11-14, 6-5 Away','LA','Clippers','LA Clippers','16-9, 9-2 Home','STAPLES Center','Los Angeles',' CA
 ','Dwyane Wade, Derrick Jones Jr., Justise Winslow','Tobias Harris, Danilo Gallinari, Lou Williams');
-INSERT INTO `games` VALUES (401071068,'2018-12-09','20:30:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','14-14, 4-10 Away','Detroit','Pistons','Detroit Pistons','13-11, 9-6 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: NO -2.5
-						
-						
-							
-								Over/Under: 225
-							
-						
-					
-				
-			
-			
-				Attendance: 14,705
-			
-
-			70%Capacity: 21,000Referees: Brian Forte, Karl Lane, Aaron Smith','Detroit',' MI
+INSERT INTO `games` VALUES (401071068,'2018-12-09','20:30:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','14-14, 4-10 Away','Detroit','Pistons','Detroit Pistons','13-11, 9-6 Home','Little Caesars Arena','Detroit',' MI
 ','Jrue Holiday, Anthony Davis, Tim Frazier','Blake Griffin, Andre Drummond, Jose Calderon');
 INSERT INTO `games` VALUES (401071069,'2018-12-09','23:00:00.000000',0,'Milwaukee','Bucks','Milwaukee Bucks','17-8, 5-5 Away','Toronto','Raptors','Toronto Raptors','21-7, 11-4 Home','Scotiabank Arena','Toronto',' ON
 ','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo','Serge Ibaka, Kawhi Leonard, Kyle Lowry');
@@ -2095,38 +824,7 @@ INSERT INTO `games` VALUES (401071074,'2018-12-11','00:30:00.000000',0,'New Orle
 ','Anthony Davis, Julius Randle, Tim Frazier','Marcus Morris, Robert Williams, Terry Rozier');
 INSERT INTO `games` VALUES (401071075,'2018-12-11','01:00:00.000000',0,'Sacramento','Kings','Sacramento Kings','14-12, 8-7 Away','Chicago','Bulls','Chicago Bulls','6-22, 4-11 Home','United Center','Chicago',' IL
 ','De''Aaron Fox, Willie Cauley-Stein, De''Aaron Fox','Zach LaVine, Bobby Portis, Kris Dunn');
-INSERT INTO `games` VALUES (401071076,'2018-12-11','01:00:00.000000',0,'Cleveland','Cavaliers','Cleveland Cavaliers','6-21, 2-11 Away','Milwaukee','Bucks','Milwaukee Bucks','18-8, 13-3 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -10.0
-						
-						
-							
-								Over/Under: 217
-							
-						
-					
-				
-			
-			
-				Attendance: 17,155
-			
-
-			99%Capacity: 17,341Referees: Pat Fraher, Leon Wood, Gediminas Petraitis','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071076,'2018-12-11','01:00:00.000000',0,'Cleveland','Cavaliers','Cleveland Cavaliers','6-21, 2-11 Away','Milwaukee','Bucks','Milwaukee Bucks','18-8, 13-3 Home','Fiserv Forum','Milwaukee',' WI
 ','Larry Nance Jr., Jaron Blossomgame, Cedi Osman','Eric Bledsoe, Eric Bledsoe, Eric Bledsoe');
 INSERT INTO `games` VALUES (401071077,'2018-12-11','01:00:00.000000',0,'Utah','Jazz','Utah Jazz','13-15, 9-9 Away','Oklahoma City','Thunder','Oklahoma City Thunder','17-8, 10-3 Home','Chesapeake Energy Arena','Oklahoma City',' OK
 ','Donovan Mitchell, Rudy Gobert, Joe Ingles','Paul George, Russell Westbrook, Russell Westbrook');
@@ -2164,38 +862,7 @@ INSERT INTO `games` VALUES (401071093,'2018-12-13','01:30:00.000000',0,'Atlanta'
 ','Trae Young, John Collins, Trae Young','Harrison Barnes, DeAndre Jordan, Luka Doncic');
 INSERT INTO `games` VALUES (401071094,'2018-12-13','02:00:00.000000',0,'Miami','Heat','Miami Heat','11-16, 6-7 Away','Utah','Jazz','Utah Jazz','14-15, 5-6 Home','Vivint Smart Home Arena','Salt Lake City',' UT
 ','Rodney McGruder, Kelly Olynyk, Kelly Olynyk','Donovan Mitchell, Rudy Gobert, Joe Ingles');
-INSERT INTO `games` VALUES (401071095,'2018-12-13','03:00:00.000000',0,'Minnesota','Timberwolves','Minnesota Timberwolves','13-15, 2-11 Away','Sacramento','Kings','Sacramento Kings','15-12, 7-5 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIN -3.0
-						
-						
-							
-								Over/Under: 227
-							
-						
-					
-				
-			
-			
-				Attendance: 15,770
-			
-
-			90%Capacity: 17,500Referees: Jason Phillips, Kevin Cutler, Jacyn Goble','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071095,'2018-12-13','03:00:00.000000',0,'Minnesota','Timberwolves','Minnesota Timberwolves','13-15, 2-11 Away','Sacramento','Kings','Sacramento Kings','15-12, 7-5 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Andrew Wiggins, Karl-Anthony Towns, Jeff Teague','Nemanja Bjelica, Marvin Bagley III, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071096,'2018-12-13','03:30:00.000000',0,'Toronto','Raptors','Toronto Raptors','23-7, 12-3 Away','Golden State','Warriors','Golden State Warriors','19-10, 12-3 Home','ORACLE Arena','Oakland',' CA
 ','Kyle Lowry, Serge Ibaka, Kyle Lowry','Kevin Durant, Kevin Durant, Draymond Green');
@@ -2203,38 +870,7 @@ INSERT INTO `games` VALUES (401071097,'2018-12-14','01:00:00.000000',0,'Los Ange
 ','LeBron James, Tyson Chandler, Lonzo Ball','James Harden, Clint Capela, James Harden');
 INSERT INTO `games` VALUES (401071098,'2018-12-14','01:30:00.000000',0,'LA','Clippers','LA Clippers','17-11, 8-8 Away','San Antonio','Spurs','San Antonio Spurs','15-14, 11-4 Home','AT&T Center','San Antonio',' TX
 ','Tobias Harris, Marcin Gortat, Marcin Gortat','LaMarcus Aldridge, Rudy Gay, DeMar DeRozan');
-INSERT INTO `games` VALUES (401071099,'2018-12-14','02:30:00.000000',0,'Chicago','Bulls','Chicago Bulls','6-23','Orlando','Magic','Orlando Magic','13-15','Arena Ciudad de Mexico
-
-				
-					
-						
-							Mexico City
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: ORL -5.5
-						
-						
-							
-								Over/Under: 213
-							
-						
-					
-				
-			
-			
-				Attendance: 20,201
-			
-
-			Referees: Brent Barnaky, Ken Mauer, Ray Acosta','Mexico City','
+INSERT INTO `games` VALUES (401071099,'2018-12-14','02:30:00.000000',0,'Chicago','Bulls','Chicago Bulls','6-23','Orlando','Magic','Orlando Magic','13-15','Arena Ciudad de Mexico','Mexico City','
 ','Zach LaVine, Bobby Portis, Zach LaVine','Nikola Vucevic, Nikola Vucevic, Aaron Gordon');
 INSERT INTO `games` VALUES (401071100,'2018-12-14','03:30:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','15-12, 2-10 Away','Phoenix','Suns','Phoenix Suns','5-24, 4-11 Home','Talking Stick Resort Arena','Phoenix',' AZ
 ','Harrison Barnes, DeAndre Jordan, Luka Doncic','T.J. Warren, Josh Jackson, Jamal Crawford');
@@ -2254,106 +890,13 @@ INSERT INTO `games` VALUES (401071107,'2018-12-15','03:00:00.000000',0,'Oklahoma
 ','Paul George, Steven Adams, Russell Westbrook','Nikola Jokic, Nikola Jokic, Nikola Jokic');
 INSERT INTO `games` VALUES (401071108,'2018-12-15','03:00:00.000000',0,'Toronto','Raptors','Toronto Raptors','23-8, 12-4 Away','Portland','Trail Blazers','Portland Trail Blazers','16-13, 11-4 Home','Moda Center','Portland',' OR
 ','Kawhi Leonard, Danny Green, Fred VanVleet','Damian Lillard, Jusuf Nurkic, Jusuf Nurkic');
-INSERT INTO `games` VALUES (401071109,'2018-12-15','03:00:00.000000',0,'Golden State','Warriors','Golden State Warriors','20-10, 8-7 Away','Sacramento','Kings','Sacramento Kings','15-13, 7-6 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: GS -7.0
-						
-						
-							
-								Over/Under: 237
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Jason Goldenberg, Mike Callahan, Scott Wall','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071109,'2018-12-15','03:00:00.000000',0,'Golden State','Warriors','Golden State Warriors','20-10, 8-7 Away','Sacramento','Kings','Sacramento Kings','15-13, 7-6 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Stephen Curry, Draymond Green, Draymond Green','Buddy Hield, Willie Cauley-Stein, De''Aaron Fox');
-INSERT INTO `games` VALUES (401071110,'2018-12-15','22:00:00.000000',0,'Utah','Jazz','Utah Jazz','14-16','Orlando','Magic','Orlando Magic','14-15','Arena Ciudad de Mexico
-
-				
-					
-						
-							Mexico City
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: UTAH -6.0
-						
-						
-							
-								Over/Under: 207
-							
-						
-					
-				
-			
-			
-				Attendance: 20,011
-			
-
-			Referees: Sean Wright, Tre Maddox, Gediminas Petraitis','Mexico City','
+INSERT INTO `games` VALUES (401071110,'2018-12-15','22:00:00.000000',0,'Utah','Jazz','Utah Jazz','14-16','Orlando','Magic','Orlando Magic','14-15','Arena Ciudad de Mexico','Mexico City','
 ','Donovan Mitchell, Rudy Gobert, Joe Ingles','Evan Fournier, Nikola Vucevic, Nikola Vucevic');
 INSERT INTO `games` VALUES (401071111,'2018-12-16','00:00:00.000000',0,'Los Angeles','Lakers','Los Angeles Lakers','18-11, 7-7 Away','Charlotte','Hornets','Charlotte Hornets','14-15, 10-7 Home','Spectrum Center','Charlotte',' NC
 ','LeBron James, LeBron James, LeBron James','Malik Monk, Cody Zeller, Devonte'' Graham');
-INSERT INTO `games` VALUES (401071112,'2018-12-16','00:00:00.000000',0,'Boston','Celtics','Boston Celtics','18-11, 9-8 Away','Detroit','Pistons','Detroit Pistons','14-13, 10-6 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: BOS -2.0
-						
-						
-							
-								Over/Under: 216
-							
-						
-					
-				
-			
-			
-				Attendance: 14,500
-			
-
-			69%Capacity: 21,000Referees: Eric Dalen, Tom Washington, Kevin Scott','Detroit',' MI
+INSERT INTO `games` VALUES (401071112,'2018-12-16','00:00:00.000000',0,'Boston','Celtics','Boston Celtics','18-11, 9-8 Away','Detroit','Pistons','Detroit Pistons','14-13, 10-6 Home','Little Caesars Arena','Detroit',' MI
 ','Kyrie Irving, Kyrie Irving, Kyrie Irving','Blake Griffin, Andre Drummond, Jose Calderon');
 INSERT INTO `games` VALUES (401071113,'2018-12-16','01:00:00.000000',0,'Houston','Rockets','Houston Rockets','14-14, 7-9 Away','Memphis','Grizzlies','Memphis Grizzlies','16-13, 9-6 Home','FedExForum','Memphis',' TN
 ','James Harden, James Harden, James Harden','Mike Conley, Marc Gasol, Mike Conley');
@@ -2377,38 +920,7 @@ INSERT INTO `games` VALUES (401071122,'2018-12-17','00:00:00.000000',0,'Miami','
 ','Josh Richardson, Hassan Whiteside, Bam Adebayo','Anthony Davis, Anthony Davis, Anthony Davis');
 INSERT INTO `games` VALUES (401071123,'2018-12-17','01:00:00.000000',0,'Toronto','Raptors','Toronto Raptors','23-9, 12-5 Away','Denver','Nuggets','Denver Nuggets','20-9, 12-3 Home','Pepsi Center','Denver',' CO
 ','Kawhi Leonard, Kawhi Leonard, Kawhi Leonard','Nikola Jokic, Nikola Jokic, Nikola Jokic');
-INSERT INTO `games` VALUES (401071124,'2018-12-18','00:00:00.000000',0,'Milwaukee','Bucks','Milwaukee Bucks','20-9, 7-6 Away','Detroit','Pistons','Detroit Pistons','14-14, 10-7 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -3.0
-						
-						
-							
-								Over/Under: 226
-							
-						
-					
-				
-			
-			
-				Attendance: 15,051
-			
-
-			72%Capacity: 21,000Referees: Jason Phillips, Dedric Taylor, Ray Acosta','Detroit',' MI
+INSERT INTO `games` VALUES (401071124,'2018-12-18','00:00:00.000000',0,'Milwaukee','Bucks','Milwaukee Bucks','20-9, 7-6 Away','Detroit','Pistons','Detroit Pistons','14-14, 10-7 Home','Little Caesars Arena','Detroit',' MI
 ','Giannis Antetokounmpo, Giannis Antetokounmpo, Eric Bledsoe','Reggie Bullock, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401071125,'2018-12-18','00:30:00.000000',0,'Phoenix','Suns','Phoenix Suns','7-24, 2-13 Away','New York','Knicks','New York Knicks','9-23, 4-10 Home','Madison Square Garden','New York',' NY
 ','Devin Booker, Deandre Ayton, Jamal Crawford','Emmanuel Mudiay, Enes Kanter, Emmanuel Mudiay');
@@ -2446,38 +958,7 @@ INSERT INTO `games` VALUES (401071141,'2018-12-20','01:00:00.000000',0,'Brooklyn
 ','Spencer Dinwiddie, Jarrett Allen, Joe Harris','Kris Dunn, Bobby Portis, Kris Dunn');
 INSERT INTO `games` VALUES (401071142,'2018-12-20','01:00:00.000000',0,'Washington','Wizards','Washington Wizards','12-20, 4-14 Away','Houston','Rockets','Houston Rockets','16-14, 9-5 Home','Toyota Center','Houston',' TX
 ','Bradley Beal, Trevor Ariza, John Wall','James Harden, Clint Capela, James Harden');
-INSERT INTO `games` VALUES (401071143,'2018-12-20','01:00:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','15-17, 4-12 Away','Milwaukee','Bucks','Milwaukee Bucks','21-9, 14-3 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -9.0
-						
-						
-							
-								Over/Under: 231
-							
-						
-					
-				
-			
-			
-				Attendance: 17,341
-			
-
-			100%Capacity: 17,341Referees: Eric Lewis, Curtis Blair, John Butler','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071143,'2018-12-20','01:00:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','15-17, 4-12 Away','Milwaukee','Bucks','Milwaukee Bucks','21-9, 14-3 Home','Fiserv Forum','Milwaukee',' WI
 ','Anthony Davis, Anthony Davis, Jrue Holiday','Giannis Antetokounmpo, D.J. Wilson, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401071144,'2018-12-20','01:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','15-14, 5-7 Away','Minnesota','Timberwolves','Minnesota Timberwolves','14-17, 12-5 Home','Target Center','Minneapolis',' MN
 ','Blake Griffin, Andre Drummond, Jose Calderon','Derrick Rose, Karl-Anthony Towns, Derrick Rose');
@@ -2485,38 +966,7 @@ INSERT INTO `games` VALUES (401071145,'2018-12-20','02:00:00.000000',0,'Golden S
 ','Stephen Curry, Draymond Green, Shaun Livingston','Joe Ingles, Rudy Gobert, Ricky Rubio');
 INSERT INTO `games` VALUES (401071146,'2018-12-20','03:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','16-15, 7-9 Away','Portland','Trail Blazers','Portland Trail Blazers','18-13, 12-4 Home','Moda Center','Portland',' OR
 ','Mike Conley, Marc Gasol, Mike Conley','Damian Lillard, Meyers Leonard, Damian Lillard');
-INSERT INTO `games` VALUES (401071147,'2018-12-20','03:00:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','20-10, 8-7 Away','Sacramento','Kings','Sacramento Kings','16-15, 7-7 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: OKC -4.5
-						
-						
-							
-								Over/Under: 233
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: James Capers, Haywoode Workman, Marat Kogut','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071147,'2018-12-20','03:00:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','20-10, 8-7 Away','Sacramento','Kings','Sacramento Kings','16-15, 7-7 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Paul George, Steven Adams, Russell Westbrook','Buddy Hield, Willie Cauley-Stein, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071148,'2018-12-21','01:00:00.000000',0,'Houston','Rockets','Houston Rockets','16-15, 7-10 Away','Miami','Heat','Miami Heat','14-16, 6-9 Home','American Airlines Arena','Miami',' FL
 ','James Harden, Clint Capela, James Harden','Josh Richardson, Hassan Whiteside, Josh Richardson');
@@ -2538,38 +988,7 @@ INSERT INTO `games` VALUES (401071156,'2018-12-22','01:30:00.000000',0,'Minnesot
 ','Andrew Wiggins, Robert Covington, Karl-Anthony Towns','Bryn Forbes, LaMarcus Aldridge, DeMar DeRozan');
 INSERT INTO `games` VALUES (401071157,'2018-12-22','03:00:00.000000',0,'Utah','Jazz','Utah Jazz','16-17, 10-11 Away','Portland','Trail Blazers','Portland Trail Blazers','18-14, 12-5 Home','Moda Center','Portland',' OR
 ','Ricky Rubio, Rudy Gobert, Ricky Rubio','Damian Lillard, Jusuf Nurkic, Jusuf Nurkic');
-INSERT INTO `games` VALUES (401071158,'2018-12-22','03:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','16-16, 7-10 Away','Sacramento','Kings','Sacramento Kings','17-15, 8-7 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SAC -2.0
-						
-						
-							
-								Over/Under: 212
-							
-						
-					
-				
-			
-			
-				Attendance: 16,369
-			
-
-			94%Capacity: 17,500Referees: Kane Fitzgerald, J.T. Orr, Tre Maddox','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071158,'2018-12-22','03:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','16-16, 7-10 Away','Sacramento','Kings','Sacramento Kings','17-15, 8-7 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Mike Conley, JaMychal Green, Mike Conley','Buddy Hield, Willie Cauley-Stein, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071159,'2018-12-22','03:30:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','15-18, 4-13 Away','Los Angeles','Lakers','Los Angeles Lakers','19-13, 12-4 Home','STAPLES Center','Los Angeles',' CA
 ','Anthony Davis, Anthony Davis, Jrue Holiday','Kyle Kuzma, LeBron James, LeBron James');
@@ -2587,38 +1006,7 @@ INSERT INTO `games` VALUES (401071165,'2018-12-23','01:30:00.000000',0,'Dallas',
 ','Wesley Matthews, DeAndre Jordan, J.J. Barea','Kevin Durant, Kevin Durant, Kevin Durant');
 INSERT INTO `games` VALUES (401071166,'2018-12-23','02:00:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','21-10, 9-7 Away','Utah','Jazz','Utah Jazz','16-18, 6-7 Home','Vivint Smart Home Arena','Salt Lake City',' UT
 ','Paul George, Paul George, Russell Westbrook','Rudy Gobert, Rudy Gobert, Ricky Rubio');
-INSERT INTO `games` VALUES (401071167,'2018-12-23','21:00:00.000000',0,'Atlanta','Hawks','Atlanta Hawks','9-23, 4-14 Away','Detroit','Pistons','Detroit Pistons','15-16, 10-8 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -9.5
-						
-						
-							
-								Over/Under: 222
-							
-						
-					
-				
-			
-			
-				Attendance: 16,532
-			
-
-			79%Capacity: 21,000Referees: Courtney Kirkland, Nick Buchert, Brandon Adair','Detroit',' MI
+INSERT INTO `games` VALUES (401071167,'2018-12-23','21:00:00.000000',0,'Atlanta','Hawks','Atlanta Hawks','9-23, 4-14 Away','Detroit','Pistons','Detroit Pistons','15-16, 10-8 Home','Little Caesars Arena','Detroit',' MI
 ','Vince Carter, Alex Len, Trae Young','Langston Galloway, Andre Drummond, Reggie Jackson');
 INSERT INTO `games` VALUES (401071168,'2018-12-23','22:00:00.000000',0,'Washington','Wizards','Washington Wizards','13-21, 4-15 Away','Indiana','Pacers','Indiana Pacers','22-12, 12-5 Home','Bankers Life Fieldhouse','Indianapolis',' IN
 ','Markieff Morris, Thomas Bryant, John Wall','Myles Turner, Myles Turner, Victor Oladipo');
@@ -2630,38 +1018,7 @@ INSERT INTO `games` VALUES (401071171,'2018-12-23','23:00:00.000000',0,'Chicago'
 ','Lauri Markkanen, Kris Dunn, Ryan Arcidiacono','Larry Nance Jr., Cedi Osman, Alec Burks');
 INSERT INTO `games` VALUES (401071172,'2018-12-23','23:00:00.000000',0,'Miami','Heat','Miami Heat','16-16, 9-7 Away','Orlando','Magic','Orlando Magic','14-18, 8-10 Home','Amway Center','Orlando',' FL
 ','Tyler Johnson, Josh Richardson, Justise Winslow','Evan Fournier, Jonathan Isaac, Evan Fournier');
-INSERT INTO `games` VALUES (401071173,'2018-12-23','23:00:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','15-19, 4-14 Away','Sacramento','Kings','Sacramento Kings','18-15, 9-7 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: NO -1.0
-						
-						
-							
-								Over/Under: 238
-							
-						
-					
-				
-			
-			
-				Attendance: 16,643
-			
-
-			95%Capacity: 17,500Referees: James Williams, Scott Twardoski, Jonathan Sterling','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071173,'2018-12-23','23:00:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','15-19, 4-14 Away','Sacramento','Kings','Sacramento Kings','18-15, 9-7 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Jrue Holiday, Anthony Davis, Tim Frazier','Buddy Hield, Willie Cauley-Stein, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071174,'2018-12-24','01:00:00.000000',0,'Minnesota','Timberwolves','Minnesota Timberwolves','15-18, 3-13 Away','Oklahoma City','Thunder','Oklahoma City Thunder','21-11, 12-4 Home','Chesapeake Energy Arena','Oklahoma City',' OK
 ','Andrew Wiggins, Dario Saric, Karl-Anthony Towns','Paul George, Paul George, Russell Westbrook');
@@ -2671,38 +1028,7 @@ INSERT INTO `games` VALUES (401071176,'2018-12-24','02:00:00.000000',0,'Dallas',
 ','Harrison Barnes, Luka Doncic, J.J. Barea','Damian Lillard, Jusuf Nurkic, Damian Lillard');
 INSERT INTO `games` VALUES (401071177,'2018-12-24','02:30:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','17-16, 8-10 Away','Los Angeles','Lakers','Los Angeles Lakers','19-14, 12-5 Home','STAPLES Center','Los Angeles',' CA
 ','Jaren Jackson Jr., Jaren Jackson Jr., Marc Gasol','LeBron James, LeBron James, LeBron James');
-INSERT INTO `games` VALUES (401071178,'2018-12-27','00:00:00.000000',0,'Washington','Wizards','Washington Wizards','13-22, 4-16 Away','Detroit','Pistons','Detroit Pistons','16-16, 11-8 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -4.5
-						
-						
-							
-								Over/Under: 222
-							
-						
-					
-				
-			
-			
-				Attendance: 17,534
-			
-
-			83%Capacity: 21,000Referees: Sean Wright, Marat Kogut, Brett Nansel','Detroit',' MI
+INSERT INTO `games` VALUES (401071178,'2018-12-27','00:00:00.000000',0,'Washington','Wizards','Washington Wizards','13-22, 4-16 Away','Detroit','Pistons','Detroit Pistons','16-16, 11-8 Home','Little Caesars Arena','Detroit',' MI
 ','John Wall, John Wall, John Wall','Blake Griffin, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401071179,'2018-12-27','00:00:00.000000',0,'Phoenix','Suns','Phoenix Suns','9-26, 4-15 Away','Orlando','Magic','Orlando Magic','14-19, 8-11 Home','Amway Center','Orlando',' FL
 ','Devin Booker, Deandre Ayton, Devin Booker','D.J. Augustin, Nikola Vucevic, D.J. Augustin');
@@ -2724,71 +1050,9 @@ INSERT INTO `games` VALUES (401071187,'2018-12-27','03:30:00.000000',0,'Sacramen
 ','De''Aaron Fox, De''Aaron Fox, De''Aaron Fox','Lou Williams, Montrezl Harrell, Lou Williams');
 INSERT INTO `games` VALUES (401071188,'2018-12-28','01:00:00.000000',0,'Boston','Celtics','Boston Celtics','20-14, 9-9 Away','Houston','Rockets','Houston Rockets','19-15, 12-5 Home','Toyota Center','Houston',' TX
 ','Kyrie Irving, Marcus Morris, Kyrie Irving','James Harden, Clint Capela, James Harden');
-INSERT INTO `games` VALUES (401071189,'2018-12-28','01:00:00.000000',0,'New York','Knicks','New York Knicks','9-27, 5-15 Away','Milwaukee','Bucks','Milwaukee Bucks','24-10, 15-3 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -14.5
-						
-						
-							
-								Over/Under: 227
-							
-						
-					
-				
-			
-			
-				Attendance: 18,058
-			
-
-			100%Capacity: 17,341Referees: Mark Ayotte, Brian Forte, Haywoode Workman','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071189,'2018-12-28','01:00:00.000000',0,'New York','Knicks','New York Knicks','9-27, 5-15 Away','Milwaukee','Bucks','Milwaukee Bucks','24-10, 15-3 Home','Fiserv Forum','Milwaukee',' WI
 ','Luke Kornet, Noah Vonleh, Emmanuel Mudiay','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo');
-INSERT INTO `games` VALUES (401071190,'2018-12-28','03:00:00.000000',0,'Los Angeles','Lakers','Los Angeles Lakers','20-15, 8-10 Away','Sacramento','Kings','Sacramento Kings','19-16, 10-7 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SAC -4.5
-						
-						
-							
-								Over/Under: 229
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Tom Washington, Leon Wood, Tyler Ford','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071190,'2018-12-28','03:00:00.000000',0,'Los Angeles','Lakers','Los Angeles Lakers','20-15, 8-10 Away','Sacramento','Kings','Sacramento Kings','19-16, 10-7 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Kyle Kuzma, Tyson Chandler, Lonzo Ball','Bogdan Bogdanovic, Willie Cauley-Stein, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071191,'2018-12-28','03:30:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','23-13, 7-10 Away','Utah','Jazz','Utah Jazz','17-19, 7-8 Home','Vivint Smart Home Arena','Salt Lake City',' UT
 ','JJ Redick, Joel Embiid, Ben Simmons','Donovan Mitchell, Rudy Gobert, Rudy Gobert');
@@ -2814,38 +1078,7 @@ INSERT INTO `games` VALUES (401071201,'2018-12-29','02:00:00.000000',0,'Oklahoma
 ','Russell Westbrook, Steven Adams, Russell Westbrook','Devin Booker, Deandre Ayton, Devin Booker');
 INSERT INTO `games` VALUES (401071202,'2018-12-29','03:30:00.000000',0,'LA','Clippers','LA Clippers','21-14, 9-10 Away','Los Angeles','Lakers','Los Angeles Lakers','20-16, 12-6 Home','STAPLES Center','Los Angeles',' CA
 ','Lou Williams, Tobias Harris, Marcin Gortat','Kyle Kuzma, Tyson Chandler, Lonzo Ball');
-INSERT INTO `games` VALUES (401071203,'2018-12-29','22:00:00.000000',0,'Brooklyn','Nets','Brooklyn Nets','17-21, 8-10 Away','Milwaukee','Bucks','Milwaukee Bucks','25-10, 16-3 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -11.0
-						
-						
-							
-								Over/Under: 222
-							
-						
-					
-				
-			
-			
-				Attendance: 17,918
-			
-
-			100%Capacity: 17,341Referees: James Williams, Michael Smith, Nate  Green','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071203,'2018-12-29','22:00:00.000000',0,'Brooklyn','Nets','Brooklyn Nets','17-21, 8-10 Away','Milwaukee','Bucks','Milwaukee Bucks','25-10, 16-3 Home','Fiserv Forum','Milwaukee',' WI
 ','Shabazz Napier, Kenneth Faried, Shabazz Napier','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401071204,'2018-12-30','00:00:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','17-18, 4-11 Away','Washington','Wizards','Washington Wizards','14-23, 10-7 Home','Capital One Arena','Washington',' DC
 ','Kemba Walker, Cody Zeller, Devonte'' Graham','Trevor Ariza, Thomas Bryant, Trevor Ariza');
@@ -2891,73 +1124,11 @@ INSERT INTO `games` VALUES (401071224,'2019-01-01','02:00:00.000000',0,'Golden S
 ','Stephen Curry, Stephen Curry, Draymond Green','Deandre Ayton, Deandre Ayton, Devin Booker');
 INSERT INTO `games` VALUES (401071225,'2019-01-02','00:30:00.000000',0,'Utah','Jazz','Utah Jazz','18-20, 10-12 Away','Toronto','Raptors','Toronto Raptors','28-11, 15-4 Home','Scotiabank Arena','Toronto',' ON
 ','Jae Crowder, Derrick Favors, Ricky Rubio','Kawhi Leonard, Pascal Siakam, Fred VanVleet');
-INSERT INTO `games` VALUES (401071226,'2019-01-02','01:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','16-19, 5-11 Away','Milwaukee','Bucks','Milwaukee Bucks','26-10, 17-3 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -10.0
-						
-						
-							
-								Over/Under: 219
-							
-						
-					
-				
-			
-			
-				Attendance: 17,534
-			
-
-			100%Capacity: 17,341Referees: Eric Lewis, Karl Lane, Evan Scott','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071226,'2019-01-02','01:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','16-19, 5-11 Away','Milwaukee','Bucks','Milwaukee Bucks','26-10, 17-3 Home','Fiserv Forum','Milwaukee',' WI
 ','Blake Griffin, Blake Griffin, Blake Griffin','Brook Lopez, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401071227,'2019-01-02','02:00:00.000000',0,'New York','Knicks','New York Knicks','9-29, 5-17 Away','Denver','Nuggets','Denver Nuggets','24-11, 15-3 Home','Pepsi Center','Denver',' CO
 ','Luke Kornet, Noah Vonleh, Emmanuel Mudiay','Malik Beasley, Nikola Jokic, Nikola Jokic');
-INSERT INTO `games` VALUES (401071228,'2019-01-02','02:00:00.000000',0,'Portland','Trail Blazers','Portland Trail Blazers','22-16, 8-10 Away','Sacramento','Kings','Sacramento Kings','19-18, 10-8 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: POR -1.0
-						
-						
-							
-								Over/Under: 230
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Brent Barnaky, John Goble, Mitchell Ervin','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071228,'2019-01-02','02:00:00.000000',0,'Portland','Trail Blazers','Portland Trail Blazers','22-16, 8-10 Away','Sacramento','Kings','Sacramento Kings','19-18, 10-8 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Damian Lillard, Jusuf Nurkic, Jusuf Nurkic','Buddy Hield, Nemanja Bjelica, Bogdan Bogdanovic');
 INSERT INTO `games` VALUES (401071229,'2019-01-02','03:30:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','24-14, 8-11 Away','LA','Clippers','LA Clippers','21-16, 12-6 Home','STAPLES Center','Los Angeles',' CA
 ','Joel Embiid, Joel Embiid, Ben Simmons','Lou Williams, Montrezl Harrell, Shai Gilgeous-Alexander');
@@ -2981,38 +1152,7 @@ INSERT INTO `games` VALUES (401071238,'2019-01-03','03:30:00.000000',0,'Oklahoma
 ','Paul George, Russell Westbrook, Russell Westbrook','Kentavious Caldwell-Pope, Josh Hart, Lonzo Ball');
 INSERT INTO `games` VALUES (401071239,'2019-01-04','01:00:00.000000',0,'Toronto','Raptors','Toronto Raptors','28-12, 13-8 Away','San Antonio','Spurs','San Antonio Spurs','22-17, 16-5 Home','AT&T Center','San Antonio',' TX
 ','Kawhi Leonard, Serge Ibaka, Pascal Siakam','LaMarcus Aldridge, DeMar DeRozan, DeMar DeRozan');
-INSERT INTO `games` VALUES (401071240,'2019-01-04','03:00:00.000000',0,'Denver','Nuggets','Denver Nuggets','25-11, 10-8 Away','Sacramento','Kings','Sacramento Kings','19-19, 10-9 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DEN -3.5
-						
-						
-							
-								Over/Under: 227
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Matt Boland, Sean Wright, Mousa Dagher','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071240,'2019-01-04','03:00:00.000000',0,'Denver','Nuggets','Denver Nuggets','25-11, 10-8 Away','Sacramento','Kings','Sacramento Kings','19-19, 10-9 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Jamal Murray, Nikola Jokic, Jamal Murray','Buddy Hield, Nemanja Bjelica, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071241,'2019-01-04','03:30:00.000000',0,'Houston','Rockets','Houston Rockets','22-15, 9-10 Away','Golden State','Warriors','Golden State Warriors','25-14, 15-6 Home','ORACLE Arena','Oakland',' CA
 ','James Harden, Clint Capela, James Harden','Stephen Curry, Draymond Green, Draymond Green');
@@ -3028,38 +1168,7 @@ INSERT INTO `games` VALUES (401071246,'2019-01-05','01:00:00.000000',0,'Brooklyn
 ','D''Angelo Russell, Jarrett Allen, D''Angelo Russell','Mike Conley, Kyle Anderson, Kyle Anderson');
 INSERT INTO `games` VALUES (401071247,'2019-01-05','01:00:00.000000',0,'Orlando','Magic','Orlando Magic','17-21, 7-10 Away','Minnesota','Timberwolves','Minnesota Timberwolves','18-21, 13-6 Home','Target Center','Minneapolis',' MN
 ','Nikola Vucevic, Nikola Vucevic, Jonathon Simmons','Karl-Anthony Towns, Karl-Anthony Towns, Jeff Teague');
-INSERT INTO `games` VALUES (401071248,'2019-01-05','01:30:00.000000',0,'Atlanta','Hawks','Atlanta Hawks','11-27, 5-17 Away','Milwaukee','Bucks','Milwaukee Bucks','27-10, 18-3 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -14.0
-						
-						
-							
-								Over/Under: 230
-							
-						
-					
-				
-			
-			
-				Attendance: 17,632
-			
-
-			100%Capacity: 17,341Referees: Jason Phillips, Scott Twardoski, Matt Myers','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071248,'2019-01-05','01:30:00.000000',0,'Atlanta','Hawks','Atlanta Hawks','11-27, 5-17 Away','Milwaukee','Bucks','Milwaukee Bucks','27-10, 18-3 Home','Fiserv Forum','Milwaukee',' WI
 ','DeAndre'' Bembry, Alex Len, Trae Young','Malcolm Brogdon, Ersan Ilyasova, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401071249,'2019-01-05','02:00:00.000000',0,'LA','Clippers','LA Clippers','22-16, 10-10 Away','Phoenix','Suns','Phoenix Suns','9-31, 5-16 Home','Talking Stick Resort Arena','Phoenix',' AZ
 ','Danilo Gallinari, Marcin Gortat, Shai Gilgeous-Alexander','Devin Booker, Josh Jackson, Devin Booker');
@@ -3069,112 +1178,19 @@ INSERT INTO `games` VALUES (401071251,'2019-01-05','03:30:00.000000',0,'Oklahoma
 ','Paul George, Steven Adams, Russell Westbrook','Damian Lillard, Al-Farouq Aminu, Evan Turner');
 INSERT INTO `games` VALUES (401071252,'2019-01-05','22:00:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','18-20, 4-12 Away','Denver','Nuggets','Denver Nuggets','26-11, 16-3 Home','Pepsi Center','Denver',' CO
 ','Kemba Walker, Bismack Biyombo, Devonte'' Graham','Nikola Jokic, Nikola Jokic, Jamal Murray');
-INSERT INTO `games` VALUES (401071253,'2019-01-06','00:00:00.000000',0,'Utah','Jazz','Utah Jazz','20-20, 12-12 Away','Detroit','Pistons','Detroit Pistons','17-20, 11-9 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: UTAH -4.0
-						
-						
-							
-								Over/Under: 209
-							
-						
-					
-				
-			
-			
-				Attendance: 17,255
-			
-
-			82%Capacity: 21,000Referees: Tom Washington, Michael Smith, Phenizee Ransom','Detroit',' MI
+INSERT INTO `games` VALUES (401071253,'2019-01-06','00:00:00.000000',0,'Utah','Jazz','Utah Jazz','20-20, 12-12 Away','Detroit','Pistons','Detroit Pistons','17-20, 11-9 Home','Little Caesars Arena','Detroit',' MI
 ','Donovan Mitchell, Rudy Gobert, Donovan Mitchell','Blake Griffin, Andre Drummond, Bruce Brown');
 INSERT INTO `games` VALUES (401071254,'2019-01-06','00:30:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','18-21, 3-18 Away','Philadelphia','76ers','Philadelphia 76ers','26-14, 17-3 Home','Wells Fargo Center','Philadelphia',' PA
 ','Wesley Matthews, Jalen Brunson, Jalen Brunson','Joel Embiid, Ben Simmons, Ben Simmons');
 INSERT INTO `games` VALUES (401071255,'2019-01-06','01:00:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','18-22, 5-16 Away','Cleveland','Cavaliers','Cleveland Cavaliers','8-32, 5-16 Home','Quicken Loans Arena','Cleveland',' OH
 ','Julius Randle, Julius Randle, Julius Randle','Jordan Clarkson, Tristan Thompson, Alec Burks');
-INSERT INTO `games` VALUES (401071256,'2019-01-06','01:30:00.000000',0,'Toronto','Raptors','Toronto Raptors','29-12, 14-8 Away','Milwaukee','Bucks','Milwaukee Bucks','27-11, 18-4 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -5.0
-						
-						
-							
-								Over/Under: 225
-							
-						
-					
-				
-			
-			
-				Attendance: 18,028
-			
-
-			100%Capacity: 17,341Referees: Matt Boland, Jacyn Goble, Marc Davis','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071256,'2019-01-06','01:30:00.000000',0,'Toronto','Raptors','Toronto Raptors','29-12, 14-8 Away','Milwaukee','Bucks','Milwaukee Bucks','27-11, 18-4 Home','Fiserv Forum','Milwaukee',' WI
 ','Kawhi Leonard, Serge Ibaka, Fred VanVleet','Giannis Antetokounmpo, Giannis Antetokounmpo, Khris Middleton');
 INSERT INTO `games` VALUES (401071257,'2019-01-06','01:30:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','18-21, 8-12 Away','San Antonio','Spurs','San Antonio Spurs','23-17, 17-5 Home','AT&T Center','San Antonio',' TX
 ','Mike Conley, Marc Gasol, Marc Gasol','Derrick White, DeMar DeRozan, LaMarcus Aldridge');
 INSERT INTO `games` VALUES (401071258,'2019-01-06','03:00:00.000000',0,'Houston','Rockets','Houston Rockets','22-16, 9-11 Away','Portland','Trail Blazers','Portland Trail Blazers','23-17, 15-7 Home','Moda Center','Portland',' OR
 ','James Harden, Clint Capela, James Harden','Jusuf Nurkic, Jusuf Nurkic, Damian Lillard');
-INSERT INTO `games` VALUES (401071259,'2019-01-06','03:00:00.000000',0,'Golden State','Warriors','Golden State Warriors','26-14, 11-8 Away','Sacramento','Kings','Sacramento Kings','19-20, 10-10 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: GS -7.5
-						
-						
-							
-								Over/Under: 239
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Courtney Kirkland, Karl Lane, JB DeRosa','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071259,'2019-01-06','03:00:00.000000',0,'Golden State','Warriors','Golden State Warriors','26-14, 11-8 Away','Sacramento','Kings','Sacramento Kings','19-20, 10-10 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Stephen Curry, Jonas Jerebko, Kevin Durant','Buddy Hield, Willie Cauley-Stein, Bogdan Bogdanovic');
 INSERT INTO `games` VALUES (401071260,'2019-01-06','20:30:00.000000',0,'Brooklyn','Nets','Brooklyn Nets','20-21, 10-10 Away','Chicago','Bulls','Chicago Bulls','10-30, 5-16 Home','United Center','Chicago',' IL
 ','D''Angelo Russell, Ed Davis, D''Angelo Russell','Zach LaVine, Wendell Carter Jr., Kris Dunn');
@@ -3190,75 +1206,13 @@ INSERT INTO `games` VALUES (401071265,'2019-01-07','00:30:00.000000',0,'Indiana'
 ','Bojan Bogdanovic, Domantas Sabonis, Domantas Sabonis','Norman Powell, Pascal Siakam, Kyle Lowry');
 INSERT INTO `games` VALUES (401071266,'2019-01-07','01:00:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','19-20, 5-12 Away','Phoenix','Suns','Phoenix Suns','9-32, 5-17 Home','Talking Stick Resort Arena','Phoenix',' AZ
 ','Kemba Walker, Willy Hernangomez, Tony Parker','T.J. Warren, Deandre Ayton, T.J. Warren');
-INSERT INTO `games` VALUES (401071267,'2019-01-08','00:00:00.000000',0,'San Antonio','Spurs','San Antonio Spurs','24-17, 7-12 Away','Detroit','Pistons','Detroit Pistons','17-21, 11-10 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SA -2.5
-						
-						
-							
-								Over/Under: 215
-							
-						
-					
-				
-			
-			
-				Attendance: 13,107
-			
-
-			62%Capacity: 21,000Referees: Marc Davis, Gediminas Petraitis, Ashley Moyer-Gleich','Detroit',' MI
+INSERT INTO `games` VALUES (401071267,'2019-01-08','00:00:00.000000',0,'San Antonio','Spurs','San Antonio Spurs','24-17, 7-12 Away','Detroit','Pistons','Detroit Pistons','17-21, 11-10 Home','Little Caesars Arena','Detroit',' MI
 ','DeMar DeRozan, DeMar DeRozan, DeMar DeRozan','Blake Griffin, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401071268,'2019-01-08','00:30:00.000000',0,'Brooklyn','Nets','Brooklyn Nets','20-22, 10-11 Away','Boston','Celtics','Boston Celtics','24-15, 14-5 Home','TD Garden','Boston',' MA
 ','Rodions Kurucs, Kenneth Faried, Shabazz Napier','Kyrie Irving, Al Horford, Marcus Smart');
 INSERT INTO `games` VALUES (401071269,'2019-01-08','01:00:00.000000',0,'Denver','Nuggets','Denver Nuggets','26-12, 10-9 Away','Houston','Rockets','Houston Rockets','23-16, 14-5 Home','Toyota Center','Houston',' TX
 ','Nikola Jokic, Nikola Jokic, Monte Morris','James Harden, Clint Capela, James Harden');
-INSERT INTO `games` VALUES (401071270,'2019-01-08','01:00:00.000000',0,'Utah','Jazz','Utah Jazz','20-21, 12-13 Away','Milwaukee','Bucks','Milwaukee Bucks','28-11, 19-4 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -5.0
-						
-						
-							
-								Over/Under: 223
-							
-						
-					
-				
-			
-			
-				Attendance: 17,341
-			
-
-			100%Capacity: 17,341Referees: Mark Lindsay, Kevin Scott, Brandon Adair','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071270,'2019-01-08','01:00:00.000000',0,'Utah','Jazz','Utah Jazz','20-21, 12-13 Away','Milwaukee','Bucks','Milwaukee Bucks','28-11, 19-4 Home','Fiserv Forum','Milwaukee',' WI
 ','Donovan Mitchell, Rudy Gobert, Joe Ingles','Giannis Antetokounmpo, Giannis Antetokounmpo, Eric Bledsoe');
 INSERT INTO `games` VALUES (401071271,'2019-01-08','01:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','18-22, 8-13 Away','New Orleans','Pelicans','New Orleans Pelicans','19-22, 14-6 Home','Smoothie King Center','New Orleans',' LA
 ','Mike Conley, Joakim Noah, Mike Conley','Anthony Davis, Anthony Davis, Jrue Holiday');
@@ -3266,38 +1220,7 @@ INSERT INTO `games` VALUES (401071272,'2019-01-08','01:30:00.000000',0,'Los Ange
 ','Brandon Ingram, Josh Hart, Brandon Ingram','Luka Doncic, DeAndre Jordan, J.J. Barea');
 INSERT INTO `games` VALUES (401071273,'2019-01-08','03:00:00.000000',0,'New York','Knicks','New York Knicks','10-30, 6-18 Away','Portland','Trail Blazers','Portland Trail Blazers','24-17, 16-7 Home','Moda Center','Portland',' OR
 ','Enes Kanter, Enes Kanter, Emmanuel Mudiay','Jusuf Nurkic, Jake Layman, Damian Lillard');
-INSERT INTO `games` VALUES (401071274,'2019-01-08','03:00:00.000000',0,'Orlando','Magic','Orlando Magic','17-23, 7-12 Away','Sacramento','Kings','Sacramento Kings','20-20, 11-10 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SAC -4.0
-						
-						
-							
-								Over/Under: 223
-							
-						
-					
-				
-			
-			
-				Attendance: 15,724
-			
-
-			90%Capacity: 17,500Referees: Brian Forte, Jason Goldenberg, Mike Callahan','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071274,'2019-01-08','03:00:00.000000',0,'Orlando','Magic','Orlando Magic','17-23, 7-12 Away','Sacramento','Kings','Sacramento Kings','20-20, 11-10 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Terrence Ross, Nikola Vucevic, Isaiah Briscoe','De''Aaron Fox, Willie Cauley-Stein, Bogdan Bogdanovic');
 INSERT INTO `games` VALUES (401071275,'2019-01-09','00:00:00.000000',0,'Indiana','Pacers','Indiana Pacers','27-13, 13-8 Away','Cleveland','Cavaliers','Cleveland Cavaliers','8-33, 5-17 Home','Quicken Loans Arena','Cleveland',' OH
 ','Thaddeus Young, Domantas Sabonis, Darren Collison','Jordan Clarkson, Tristan Thompson, Tristan Thompson');
@@ -3341,38 +1264,7 @@ INSERT INTO `games` VALUES (401071294,'2019-01-11','02:00:00.000000',0,'LA','Cli
 ','Lou Williams, Tobias Harris, Lou Williams','Jamal Murray, Nikola Jokic, Nikola Jokic');
 INSERT INTO `games` VALUES (401071295,'2019-01-11','02:30:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','25-16, 12-10 Away','San Antonio','Spurs','San Antonio Spurs','25-18, 18-5 Home','AT&T Center','San Antonio',' TX
 ','Paul George, Russell Westbrook, Russell Westbrook','LaMarcus Aldridge, LaMarcus Aldridge, DeMar DeRozan');
-INSERT INTO `games` VALUES (401071296,'2019-01-11','03:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','17-23, 6-13 Away','Sacramento','Kings','Sacramento Kings','21-21, 12-10 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SAC -8.0
-						
-						
-							
-								Over/Under: 220
-							
-						
-					
-				
-			
-			
-				Attendance: 16,916
-			
-
-			97%Capacity: 17,500Referees: Leroy Richardson, Tony Brothers, Nick Buchert','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071296,'2019-01-11','03:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','17-23, 6-13 Away','Sacramento','Kings','Sacramento Kings','21-21, 12-10 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Stanley Johnson, Andre Drummond, Reggie Bullock','Buddy Hield, Willie Cauley-Stein, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071297,'2019-01-12','00:00:00.000000',0,'Atlanta','Hawks','Atlanta Hawks','13-29, 6-19 Away','Philadelphia','76ers','Philadelphia 76ers','27-16, 18-4 Home','Wells Fargo Center','Philadelphia',' PA
 ','Kevin Huerter, John Collins, Dewayne Dedmon','Jimmy Butler, Ben Simmons, Ben Simmons');
@@ -3406,38 +1298,7 @@ INSERT INTO `games` VALUES (401071311,'2019-01-13','02:00:00.000000',0,'Denver',
 ','Nikola Jokic, Paul Millsap, Jamal Murray','Kelly Oubre Jr., Deandre Ayton, De''Anthony Melton');
 INSERT INTO `games` VALUES (401071312,'2019-01-13','03:00:00.000000',0,'Chicago','Bulls','Chicago Bulls','10-33, 5-17 Away','Utah','Jazz','Utah Jazz','23-21, 11-8 Home','Vivint Smart Home Arena','Salt Lake City',' UT
 ','Zach LaVine, Wendell Carter Jr., Kris Dunn','Donovan Mitchell, Rudy Gobert, Rudy Gobert');
-INSERT INTO `games` VALUES (401071313,'2019-01-13','03:00:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','19-23, 5-15 Away','Sacramento','Kings','Sacramento Kings','22-21, 13-10 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SAC -5.5
-						
-						
-							
-								Over/Under: 234
-							
-						
-					
-				
-			
-			
-				Attendance: 17,853
-			
-
-			100%Capacity: 17,500Referees: James Capers, Dedric Taylor, John Butler','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071313,'2019-01-13','03:00:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','19-23, 5-15 Away','Sacramento','Kings','Sacramento Kings','22-21, 13-10 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Kemba Walker, Bismack Biyombo, Nicolas Batum','Bogdan Bogdanovic, Willie Cauley-Stein, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071314,'2019-01-13','18:00:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','28-16, 10-12 Away','New York','Knicks','New York Knicks','10-33, 4-14 Home','Madison Square Garden','New York',' NY
 ','Joel Embiid, Ben Simmons, Ben Simmons','Kevin Knox, Kevin Knox, Frank Ntilikina');
@@ -3461,38 +1322,7 @@ INSERT INTO `games` VALUES (401071323,'2019-01-15','01:30:00.000000',0,'Charlott
 ','Kemba Walker, Jeremy Lamb, Kemba Walker','LaMarcus Aldridge, LaMarcus Aldridge, Derrick White');
 INSERT INTO `games` VALUES (401071324,'2019-01-15','02:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','18-24, 7-14 Away','Utah','Jazz','Utah Jazz','24-21, 12-8 Home','Vivint Smart Home Arena','Salt Lake City',' UT
 ','Blake Griffin, Andre Drummond, Blake Griffin','Donovan Mitchell, Rudy Gobert, Joe Ingles');
-INSERT INTO `games` VALUES (401071325,'2019-01-15','03:00:00.000000',0,'Portland','Trail Blazers','Portland Trail Blazers','26-19, 8-12 Away','Sacramento','Kings','Sacramento Kings','23-21, 14-10 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SAC -2.5
-						
-						
-							
-								Over/Under: 228
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Curtis Blair, David Guthrie, Aaron Smith','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071325,'2019-01-15','03:00:00.000000',0,'Portland','Trail Blazers','Portland Trail Blazers','26-19, 8-12 Away','Sacramento','Kings','Sacramento Kings','23-21, 14-10 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Damian Lillard, Al-Farouq Aminu, Damian Lillard','Buddy Hield, Marvin Bagley III, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071326,'2019-01-15','03:30:00.000000',0,'New Orleans','Pelicans','New Orleans Pelicans','21-23, 6-17 Away','LA','Clippers','LA Clippers','24-19, 14-8 Home','STAPLES Center','Los Angeles',' CA
 ','Anthony Davis, Anthony Davis, Jrue Holiday','Montrezl Harrell, Patrick Beverley, Patrick Beverley');
@@ -3502,75 +1332,13 @@ INSERT INTO `games` VALUES (401071328,'2019-01-16','00:00:00.000000',0,'Minnesot
 ','Derrick Rose, Gorgui Dieng, Derrick Rose','Joel Embiid, Joel Embiid, Ben Simmons');
 INSERT INTO `games` VALUES (401071329,'2019-01-16','00:30:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','26-17, 12-11 Away','Atlanta','Hawks','Atlanta Hawks','14-30, 8-11 Home','State Farm Arena','Atlanta',' GA
 ','Russell Westbrook, Paul George, Russell Westbrook','John Collins, Alex Len, Trae Young');
-INSERT INTO `games` VALUES (401071330,'2019-01-16','01:00:00.000000',0,'Miami','Heat','Miami Heat','21-21, 10-9 Away','Milwaukee','Bucks','Milwaukee Bucks','31-12, 20-4 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -8.5
-						
-						
-							
-								Over/Under: 218
-							
-						
-					
-				
-			
-			
-				Attendance: 17,626
-			
-
-			100%Capacity: 17,341Referees: Courtney Kirkland, Tom Washington, Justin Van Duyne','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071330,'2019-01-16','01:00:00.000000',0,'Miami','Heat','Miami Heat','21-21, 10-9 Away','Milwaukee','Bucks','Milwaukee Bucks','31-12, 20-4 Home','Fiserv Forum','Milwaukee',' WI
 ','Hassan Whiteside, Hassan Whiteside, Justise Winslow','Eric Bledsoe, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401071331,'2019-01-16','02:00:00.000000',0,'Golden State','Warriors','Golden State Warriors','30-14, 13-8 Away','Denver','Nuggets','Denver Nuggets','29-14, 18-4 Home','Pepsi Center','Denver',' CO
 ','Stephen Curry, Kevon Looney, Draymond Green','Malik Beasley, Will Barton, Nikola Jokic');
 INSERT INTO `games` VALUES (401071332,'2019-01-16','03:30:00.000000',0,'Chicago','Bulls','Chicago Bulls','10-34, 5-18 Away','Los Angeles','Lakers','Los Angeles Lakers','24-21, 15-9 Home','STAPLES Center','Los Angeles',' CA
 ','Jabari Parker, Wendell Carter Jr., Zach LaVine','Lonzo Ball, Kyle Kuzma, Brandon Ingram');
-INSERT INTO `games` VALUES (401071333,'2019-01-17','00:00:00.000000',0,'Orlando','Magic','Orlando Magic','19-25, 7-14 Away','Detroit','Pistons','Detroit Pistons','19-24, 12-10 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -3.5
-						
-						
-							
-								Over/Under: 208
-							
-						
-					
-				
-			
-			
-				Attendance: 14,019
-			
-
-			67%Capacity: 21,000Referees: Jason Phillips, Tyler Ford, Matt Myers','Detroit',' MI
+INSERT INTO `games` VALUES (401071333,'2019-01-17','00:00:00.000000',0,'Orlando','Magic','Orlando Magic','19-25, 7-14 Away','Detroit','Pistons','Detroit Pistons','19-24, 12-10 Home','Little Caesars Arena','Detroit',' MI
 ','Nikola Vucevic, Nikola Vucevic, D.J. Augustin','Blake Griffin, Andre Drummond, Reggie Bullock');
 INSERT INTO `games` VALUES (401071334,'2019-01-17','01:00:00.000000',0,'Toronto','Raptors','Toronto Raptors','33-13, 15-9 Away','Boston','Celtics','Boston Celtics','26-18, 16-5 Home','TD Garden','Boston',' MA
 ','Kawhi Leonard, Serge Ibaka, Kyle Lowry','Kyrie Irving, Jayson Tatum, Kyrie Irving');
@@ -3586,38 +1354,7 @@ INSERT INTO `games` VALUES (401071339,'2019-01-17','03:30:00.000000',0,'New Orle
 ','Anthony Davis, Anthony Davis, Elfrid Payton','Stephen Curry, Kevin Durant, Draymond Green');
 INSERT INTO `games` VALUES (401071340,'2019-01-17','03:30:00.000000',0,'Utah','Jazz','Utah Jazz','25-21, 13-13 Away','LA','Clippers','LA Clippers','24-20, 14-9 Home','STAPLES Center','Los Angeles',' CA
 ','Donovan Mitchell, Rudy Gobert, Joe Ingles','Lou Williams, Montrezl Harrell, Lou Williams');
-INSERT INTO `games` VALUES (401071341,'2019-01-17','20:00:00.000000',0,'New York','Knicks','New York Knicks','10-34','Washington','Wizards','Washington Wizards','19-26','O2 ARENA
-
-				
-					
-						
-							London
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: WSH -7.5
-						
-						
-							
-								Over/Under: 229
-							
-						
-					
-				
-			
-			
-				Attendance: 19,078
-			
-
-			Referees: Mike Callahan, Michael Smith, Kevin Scott','London','
+INSERT INTO `games` VALUES (401071341,'2019-01-17','20:00:00.000000',0,'New York','Knicks','New York Knicks','10-34','Washington','Wizards','Washington Wizards','19-26','O2 ARENA','London','
 ','Emmanuel Mudiay, Noah Vonleh, Allonzo Trier','Bradley Beal, Otto Porter Jr., Trevor Ariza');
 INSERT INTO `games` VALUES (401071342,'2019-01-18','00:00:00.000000',0,'Sacramento','Kings','Sacramento Kings','23-22, 9-12 Away','Charlotte','Hornets','Charlotte Hornets','21-23, 15-8 Home','Spectrum Center','Charlotte',' NC
 ','Buddy Hield, Willie Cauley-Stein, De''Aaron Fox','Kemba Walker, Willy Hernangomez, Tony Parker');
@@ -3631,38 +1368,7 @@ INSERT INTO `games` VALUES (401071346,'2019-01-18','02:30:00.000000',0,'Los Ange
 ','Kyle Kuzma, Ivica Zubac, Brandon Ingram','Paul George, Steven Adams, Russell Westbrook');
 INSERT INTO `games` VALUES (401071347,'2019-01-19','00:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','19-26, 8-16 Away','Boston','Celtics','Boston Celtics','27-18, 17-5 Home','TD Garden','Boston',' MA
 ','Mike Conley, Marc Gasol, Marc Gasol','Kyrie Irving, Aron Baynes, Kyrie Irving');
-INSERT INTO `games` VALUES (401071348,'2019-01-19','00:00:00.000000',0,'Miami','Heat','Miami Heat','21-22, 10-10 Away','Detroit','Pistons','Detroit Pistons','20-24, 13-10 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -2.5
-						
-						
-							
-								Over/Under: 206
-							
-						
-					
-				
-			
-			
-				Attendance: 17,228
-			
-
-			82%Capacity: 21,000Referees: Matt Boland, John Gobel, Mousa Dagher','Detroit',' MI
+INSERT INTO `games` VALUES (401071348,'2019-01-19','00:00:00.000000',0,'Miami','Heat','Miami Heat','21-22, 10-10 Away','Detroit','Pistons','Detroit Pistons','20-24, 13-10 Home','Little Caesars Arena','Detroit',' MI
 ','Dwyane Wade, Hassan Whiteside, Dwyane Wade','Blake Griffin, Blake Griffin, Blake Griffin');
 INSERT INTO `games` VALUES (401071349,'2019-01-19','00:00:00.000000',0,'Brooklyn','Nets','Brooklyn Nets','24-23, 12-12 Away','Orlando','Magic','Orlando Magic','19-26, 12-12 Home','Amway Center','Orlando',' FL
 ','D''Angelo Russell, Jarrett Allen, D''Angelo Russell','Aaron Gordon, Nikola Vucevic, Nikola Vucevic');
@@ -3678,38 +1384,7 @@ INSERT INTO `games` VALUES (401071354,'2019-01-19','20:30:00.000000',0,'Oklahoma
 ','Paul George, Russell Westbrook, Russell Westbrook','Joel Embiid, Ben Simmons, Ben Simmons');
 INSERT INTO `games` VALUES (401071355,'2019-01-19','22:00:00.000000',0,'Phoenix','Suns','Phoenix Suns','11-36, 4-19 Away','Charlotte','Hornets','Charlotte Hornets','22-23, 16-8 Home','Spectrum Center','Charlotte',' NC
 ','Devin Booker, Quincy Acy, Devin Booker','Kemba Walker, Bismack Biyombo, Jeremy Lamb');
-INSERT INTO `games` VALUES (401071356,'2019-01-20','00:00:00.000000',0,'Sacramento','Kings','Sacramento Kings','24-22, 10-12 Away','Detroit','Pistons','Detroit Pistons','20-25, 13-11 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SAC -1.5
-						
-						
-							
-								Over/Under: 223
-							
-						
-					
-				
-			
-			
-				Attendance: 15,377
-			
-
-			73%Capacity: 21,000Referees: Derrick Collins, Pat Fraher, Natalie Sago','Detroit',' MI
+INSERT INTO `games` VALUES (401071356,'2019-01-20','00:00:00.000000',0,'Sacramento','Kings','Sacramento Kings','24-22, 10-12 Away','Detroit','Pistons','Detroit Pistons','20-25, 13-11 Home','Little Caesars Arena','Detroit',' MI
 ','Buddy Hield, Buddy Hield, De''Aaron Fox','Blake Griffin, Zaza Pachulia, Bruce Brown');
 INSERT INTO `games` VALUES (401071357,'2019-01-20','00:00:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','20-25, 4-19 Away','Indiana','Pacers','Indiana Pacers','30-15, 16-6 Home','Bankers Life Fieldhouse','Indianapolis',' IN
 ','Harrison Barnes, DeAndre Jordan, Luka Doncic','Tyreke Evans, Domantas Sabonis, Victor Oladipo');
@@ -3737,38 +1412,7 @@ INSERT INTO `games` VALUES (401071368,'2019-01-21','18:00:00.000000',0,'Chicago'
 ','Zach LaVine, Robin Lopez, Kris Dunn','Collin Sexton, Ante Zizic, Jordan Clarkson');
 INSERT INTO `games` VALUES (401071369,'2019-01-21','19:00:00.000000',0,'Detroit','Pistons','Detroit Pistons','20-26, 7-15 Away','Washington','Wizards','Washington Wizards','20-26, 15-8 Home','Capital One Arena','Washington',' DC
 ','Blake Griffin, Blake Griffin, Blake Griffin','Trevor Ariza, Trevor Ariza, Tomas Satoransky');
-INSERT INTO `games` VALUES (401071370,'2019-01-21','19:00:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','20-26, 4-20 Away','Milwaukee','Bucks','Milwaukee Bucks','34-12, 21-4 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -11.5
-						
-						
-							
-								Over/Under: 225
-							
-						
-					
-				
-			
-			
-				Attendance: 17,963
-			
-
-			100%Capacity: 17,341Referees: Zach Zarba, Scott Wall, Matt Myers','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071370,'2019-01-21','19:00:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','20-26, 4-20 Away','Milwaukee','Bucks','Milwaukee Bucks','34-12, 21-4 Home','Fiserv Forum','Milwaukee',' WI
 ','Luka Doncic, DeAndre Jordan, Luka Doncic','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo');
 INSERT INTO `games` VALUES (401071371,'2019-01-21','20:00:00.000000',0,'Orlando','Magic','Orlando Magic','20-27, 8-14 Away','Atlanta','Hawks','Atlanta Hawks','14-32, 8-13 Home','State Farm Arena','Atlanta',' GA
 ','Nikola Vucevic, Nikola Vucevic, Evan Fournier','Dewayne Dedmon, John Collins, DeAndre'' Bembry');
@@ -3828,38 +1472,7 @@ INSERT INTO `games` VALUES (401071398,'2019-01-26','01:00:00.000000',0,'Sacramen
 ','Buddy Hield, Nemanja Bjelica, De''Aaron Fox','Omri Casspi, Marc Gasol, Mike Conley');
 INSERT INTO `games` VALUES (401071399,'2019-01-26','01:30:00.000000',0,'Detroit','Pistons','Detroit Pistons','21-27, 8-16 Away','Dallas','Mavericks','Dallas Mavericks','22-26, 18-6 Home','American Airlines Center','Dallas',' TX
 ','Blake Griffin, Andre Drummond, Reggie Jackson','Luka Doncic, DeAndre Jordan, Luka Doncic');
-INSERT INTO `games` VALUES (401071400,'2019-01-26','01:30:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','23-25, 7-17 Away','Milwaukee','Bucks','Milwaukee Bucks','35-12, 22-4 Home','Fiserv Forum
-
-				
-					
-						
-							Milwaukee, WI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -11.0
-						
-						
-							
-								Over/Under: 230
-							
-						
-					
-				
-			
-			
-				Attendance: 17,803
-			
-
-			100%Capacity: 17,341Referees: Jason Phillips, Ron Garretson, Jonathan Sterling','Milwaukee',' WI
+INSERT INTO `games` VALUES (401071400,'2019-01-26','01:30:00.000000',0,'Charlotte','Hornets','Charlotte Hornets','23-25, 7-17 Away','Milwaukee','Bucks','Milwaukee Bucks','35-12, 22-4 Home','Fiserv Forum','Milwaukee',' WI
 ','Nicolas Batum, Marvin Williams, Kemba Walker','Giannis Antetokounmpo, Giannis Antetokounmpo, Khris Middleton');
 INSERT INTO `games` VALUES (401071401,'2019-01-26','02:00:00.000000',0,'Phoenix','Suns','Phoenix Suns','11-40, 4-21 Away','Denver','Nuggets','Denver Nuggets','32-15, 21-4 Home','Pepsi Center','Denver',' CO
 ','Devin Booker, Quincy Acy, Jamal Crawford','Paul Millsap, Juan Hernangomez, Mason Plumlee');
@@ -3905,38 +1518,7 @@ INSERT INTO `games` VALUES (401071421,'2019-01-29','03:30:00.000000',0,'Atlanta'
 ','Trae Young, Dewayne Dedmon, Trae Young','Tobias Harris, Patrick Beverley, Lou Williams');
 INSERT INTO `games` VALUES (401071422,'2019-01-30','00:00:00.000000',0,'Washington','Wizards','Washington Wizards','21-29, 6-20 Away','Cleveland','Cavaliers','Cleveland Cavaliers','11-41, 6-19 Home','Quicken Loans Arena','Cleveland',' OH
 ','Bradley Beal, Thomas Bryant, Bradley Beal','Jordan Clarkson, Ante Zizic, Alec Burks');
-INSERT INTO `games` VALUES (401071423,'2019-01-30','00:00:00.000000',0,'Milwaukee','Bucks','Milwaukee Bucks','36-13, 14-9 Away','Detroit','Pistons','Detroit Pistons','21-28, 13-12 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: MIL -7.0
-						
-						
-							
-								Over/Under: 217
-							
-						
-					
-				
-			
-			
-				Attendance: 14,187
-			
-
-			68%Capacity: 21,000Referees: Josh Tiven, Kevin Cutler, Justin Van Duyne','Detroit',' MI
+INSERT INTO `games` VALUES (401071423,'2019-01-30','00:00:00.000000',0,'Milwaukee','Bucks','Milwaukee Bucks','36-13, 14-9 Away','Detroit','Pistons','Detroit Pistons','21-28, 13-12 Home','Little Caesars Arena','Detroit',' MI
 ','Giannis Antetokounmpo, Giannis Antetokounmpo, Giannis Antetokounmpo','Reggie Jackson, Andre Drummond, Blake Griffin');
 INSERT INTO `games` VALUES (401071424,'2019-01-30','00:00:00.000000',0,'Oklahoma City','Thunder','Oklahoma City Thunder','32-18, 15-11 Away','Orlando','Magic','Orlando Magic','20-31, 12-15 Home','Amway Center','Orlando',' FL
 ','Paul George, Russell Westbrook, Russell Westbrook','Nikola Vucevic, Nikola Vucevic, Aaron Gordon');
@@ -3960,73 +1542,11 @@ INSERT INTO `games` VALUES (401071433,'2019-01-31','01:00:00.000000',0,'Memphis'
 ','Mike Conley, Ivan Rabb, Mike Conley','Jerryd Bayless, Karl-Anthony Towns, Jerryd Bayless');
 INSERT INTO `games` VALUES (401071434,'2019-01-31','01:00:00.000000',0,'Denver','Nuggets','Denver Nuggets','35-15, 13-11 Away','New Orleans','Pelicans','New Orleans Pelicans','23-29, 15-9 Home','Smoothie King Center','New Orleans',' LA
 ','Malik Beasley, Nikola Jokic, Nikola Jokic','Jrue Holiday, Kenrich Williams, Tim Frazier');
-INSERT INTO `games` VALUES (401071435,'2019-01-31','03:00:00.000000',0,'Atlanta','Hawks','Atlanta Hawks','16-34, 8-21 Away','Sacramento','Kings','Sacramento Kings','26-25, 15-10 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: SAC -5.0
-						
-						
-							
-								Over/Under: 237
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Brent Barnaky, John Goble, Leon Wood','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071435,'2019-01-31','03:00:00.000000',0,'Atlanta','Hawks','Atlanta Hawks','16-34, 8-21 Away','Sacramento','Kings','Sacramento Kings','26-25, 15-10 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Trae Young, Dewayne Dedmon, Trae Young','Harry Giles, Marvin Bagley III, Bogdan Bogdanovic');
 INSERT INTO `games` VALUES (401071436,'2019-01-31','03:30:00.000000',0,'Utah','Jazz','Utah Jazz','29-23, 14-14 Away','Portland','Trail Blazers','Portland Trail Blazers','32-20, 22-7 Home','Moda Center','Portland',' OR
 ','Donovan Mitchell, Rudy Gobert, Ricky Rubio','Damian Lillard, Zach Collins, Damian Lillard');
-INSERT INTO `games` VALUES (401071437,'2019-02-01','00:00:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','23-28, 5-21 Away','Detroit','Pistons','Detroit Pistons','22-28, 14-12 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -7.5
-						
-						
-							
-								Over/Under: 206
-							
-						
-					
-				
-			
-			
-				Attendance: 14,075
-			
-
-			67%Capacity: 21,000Referees: Zach Zarba, Marat Kogut, Leroy Richardson','Detroit',' MI
+INSERT INTO `games` VALUES (401071437,'2019-02-01','00:00:00.000000',0,'Dallas','Mavericks','Dallas Mavericks','23-28, 5-21 Away','Detroit','Pistons','Detroit Pistons','22-28, 14-12 Home','Little Caesars Arena','Detroit',' MI
 ','Harrison Barnes, Salah Mejri, Jalen Brunson','Andre Drummond, Andre Drummond, Reggie Jackson');
 INSERT INTO `games` VALUES (401071438,'2019-02-01','00:00:00.000000',0,'Indiana','Pacers','Indiana Pacers','32-19, 14-12 Away','Orlando','Magic','Orlando Magic','21-31, 13-15 Home','Amway Center','Orlando',' FL
 ','Myles Turner, Thaddeus Young, Darren Collison','Terrence Ross, Jonathan Isaac, Isaiah Briscoe');
@@ -4048,38 +1568,7 @@ INSERT INTO `games` VALUES (401071446,'2019-02-02','02:00:00.000000',0,'Atlanta'
 ','Trae Young, DeAndre'' Bembry, Trae Young','Rudy Gobert, Rudy Gobert, Ricky Rubio');
 INSERT INTO `games` VALUES (401071447,'2019-02-02','03:00:00.000000',0,'Houston','Rockets','Houston Rockets','29-22, 10-14 Away','Denver','Nuggets','Denver Nuggets','36-15, 23-4 Home','Pepsi Center','Denver',' CO
 ','James Harden, James Harden, James Harden','Malik Beasley, Nikola Jokic, Nikola Jokic');
-INSERT INTO `games` VALUES (401071448,'2019-02-02','22:00:00.000000',0,'LA','Clippers','LA Clippers','29-24, 14-12 Away','Detroit','Pistons','Detroit Pistons','22-29, 14-13 Home','Little Caesars Arena
-
-				
-					
-						
-							Detroit, MI
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: DET -2.0
-						
-						
-							
-								Over/Under: 216
-							
-						
-					
-				
-			
-			
-				Attendance: 17,862
-			
-
-			85%Capacity: 21,000Referees: James Williams, Kevin Scott, Brandon Adair','Detroit',' MI
+INSERT INTO `games` VALUES (401071448,'2019-02-02','22:00:00.000000',0,'LA','Clippers','LA Clippers','29-24, 14-12 Away','Detroit','Pistons','Detroit Pistons','22-29, 14-13 Home','Little Caesars Arena','Detroit',' MI
 ','Lou Williams, Boban Marjanovic, Lou Williams','Reggie Jackson, Blake Griffin, Reggie Jackson');
 INSERT INTO `games` VALUES (401071449,'2019-02-03','00:00:00.000000',0,'Chicago','Bulls','Chicago Bulls','12-41, 7-21 Away','Charlotte','Hornets','Charlotte Hornets','26-26, 19-8 Home','Spectrum Center','Charlotte',' NC
 ','Bobby Portis, Bobby Portis, Ryan Arcidiacono','Kemba Walker, Jeremy Lamb, Kemba Walker');
@@ -4101,38 +1590,7 @@ INSERT INTO `games` VALUES (401071457,'2019-02-03','02:00:00.000000',0,'Atlanta'
 ','John Collins, John Collins, Trae Young','Devin Booker, Deandre Ayton, Elie Okobo');
 INSERT INTO `games` VALUES (401071458,'2019-02-03','02:00:00.000000',0,'Houston','Rockets','Houston Rockets','30-22, 11-14 Away','Utah','Jazz','Utah Jazz','30-24, 16-10 Home','Vivint Smart Home Arena','Salt Lake City',' UT
 ','James Harden, James Harden, James Harden','Donovan Mitchell, Rudy Gobert, Donovan Mitchell');
-INSERT INTO `games` VALUES (401071459,'2019-02-03','03:00:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','34-19, 13-14 Away','Sacramento','Kings','Sacramento Kings','27-25, 16-10 Home','Golden 1 Center
-
-				
-					
-						
-							SACRAMENTO, CA
-							
-								
-							
-						
-					
-				
-			
-			
-				
-					
-						
-							Line: PHI -3.0
-						
-						
-							
-								Over/Under: 233
-							
-						
-					
-				
-			
-			
-				Attendance: 17,583
-			
-
-			100%Capacity: 17,500Referees: Eric Dalen, Kevin Cutler, Kane Fitzgerald','SACRAMENTO',' CA
+INSERT INTO `games` VALUES (401071459,'2019-02-03','03:00:00.000000',0,'Philadelphia','76ers','Philadelphia 76ers','34-19, 13-14 Away','Sacramento','Kings','Sacramento Kings','27-25, 16-10 Home','Golden 1 Center','SACRAMENTO',' CA
 ','Joel Embiid, Joel Embiid, Jimmy Butler','Buddy Hield, Marvin Bagley III, De''Aaron Fox');
 INSERT INTO `games` VALUES (401071460,'2019-02-03','18:00:00.000000',0,'Memphis','Grizzlies','Memphis Grizzlies','21-33, 9-19 Away','New York','Knicks','New York Knicks','10-42, 4-20 Home','Madison Square Garden','New York',' NY
 ','Mike Conley, Marc Gasol, Mike Conley','Kevin Knox, DeAndre Jordan, Dennis Smith Jr.');

@@ -10,6 +10,7 @@ from gamelinks import gamelinks
 
 
 
+
 db_config_line = 'sqlite:///db.sqlite'
 def get_html(url):
     r = requests.get(url, timeout = (100, 100))
@@ -53,13 +54,15 @@ def add_games_to_db(url, session):
     else:
         stadium = soup.find(class_='caption-wrapper')
         if stadium:
-            stadium = stadium.text.strip()
+            stadium = stadium.text.strip().split('\n')[0]
         else:
             stadium = soup.find(class_='location-details')
             if stadium:
-                stadium = stadium.text.strip()    
+                stadium = stadium.text.strip().split('\n')[0]  
 
+    
 
+    
     leaders_block = soup.find(class_ = 'sub-module game-leaders-module leaderMod basketball equal-height')
     leaders = leaders_block.find_all(class_ = 'long-name')
     leader_names = []
@@ -68,7 +71,7 @@ def add_games_to_db(url, session):
     game.visiting_leaders = ', '.join(leader_names[0:5:2])
     game.home_leaders = ', '.join(leader_names[1:6:2])
 
-    game.stadium = stadium
+    game.stadium = stadium.split('   ')[0]
     game.visiting_long_name, game.visiting_short_name, game.visiting_full_name, game.visiting_record = get_team_info(teams[0])
     game.home_long_name, game.home_short_name, game.home_full_name, game.home_record = get_team_info(teams[1])
      
