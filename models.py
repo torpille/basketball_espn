@@ -1,0 +1,24 @@
+from sqlalchemy import Column, Integer, String, Boolean, DateTime, Date, Time
+from sqlalchemy.ext.declarative import declarative_base
+
+Base = declarative_base()
+
+class Game(Base):
+    __tablename__ = 'games'
+    id = Column(Integer, primary_key=True)
+    date = Column(Date)
+    time = Column(Time)
+    tbd = Column(Boolean, default=False)
+    visiting_long_name = Column(String(200), nullable=True)
+    visiting_short_name = Column(String(200), nullable=True)
+    visiting_full_name = Column(String(200), nullable=True)
+    visiting_record = Column(String(200), nullable=True)
+    home_long_name = Column(String(200), nullable=True)
+    home_short_name = Column(String(200), nullable=True)
+    home_full_name = Column(String(200), nullable=True)
+    home_record = Column(String(200), nullable=True)
+    stadium = Column(String(200), nullable=True)
+    city = Column(String(200), nullable=True)
+    state = Column(String(200), nullable=True)
+    visiting_leaders = Column(String(200), nullable=True)
+    home_leaders = Column(String(200), nullable=True)
