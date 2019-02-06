@@ -5,8 +5,9 @@ from sqlalchemy_utils import database_exists, create_database
 from sqlalchemy.orm import sessionmaker
 from models import Base, Game
 from dateutil import parser
-from gamelinks import teamlinks
+# from gamelinks import teamlinks
 from gamelinks import gamelinks
+# gamelinks = ['http://www.espn.com/nba/game?gameId=401070697']
 
 
 
@@ -33,11 +34,15 @@ def add_games_to_db(url, session):
     if not game:
         game = Game(id=id)
     date_time = soup.find(attrs={"data-date":True}).get("data-date")
-    date_time = parser.parse(date_time)
-    game.date = date_time.date()
-    game.time = date_time.time()
-    teams = soup.find_all(class_="team-info")
+    # date_time = parser.parse(date_time)
+    game.date = date_time.split('T')[0]
+    game.time = date_time.split('T')[-1].split('Z')[0]
+    tbd = soup.find(class_='game-date')
+    tbd = (str(tbd).split('data-istbd="')[-1].split('"')[0])
+    if tbd == "true":
+        game.tbd = True
 
+    teams = soup.find_all(class_="team-info")
     loc = soup.find(class_='icon-font-before icon-location-solid-before')
     city = loc.text.split(',')[0].split('	')[-1]
     if city:
@@ -45,9 +50,11 @@ def add_games_to_db(url, session):
     else:
         city = loc.text.strip()
         game.city = city
-    state = loc.text.split(',')[-1].split('	')[0]
+    state = loc.text.split(',')[-1].split('	')[0].strip()
     if state:
     	game.state = state
+    else:
+        game.state = 'outside the US'
     stadium = soup.find(class_='venue-date')
     if stadium:
         game.stadium = stadium.text.split('-')[0]

@@ -6,8 +6,8 @@ Base = declarative_base()
 class Game(Base):
     __tablename__ = 'games'
     id = Column(Integer, primary_key=True)
-    date = Column(Date)
-    time = Column(Time)
+    date = Column(String(200))
+    time = Column(String(200))
     tbd = Column(Boolean, default=False)
     visiting_long_name = Column(String(200), nullable=True)
     visiting_short_name = Column(String(200), nullable=True)
