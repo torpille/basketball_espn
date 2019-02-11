@@ -22,3 +22,5 @@ class Game(Base):
     state = Column(String(200), nullable=True)
     visiting_leaders = Column(String(200), nullable=True)
     home_leaders = Column(String(200), nullable=True)
+    home_last_games = Column(String(200), nullable=True)
+    visiting_last_games = Column(String(200), nullable=True)
